@@ -1,0 +1,299 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>发布招聘</title>
+<style type="text/css">	
+
+.html1{background-color: #f3f3f3;}
+*{ margin:0; padding:0; list-style:none;}
+.logo1{ width:100%; height:100px; margin:0 auto; overflow:hidden; display:none; background: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-1.gif)  no-repeat center top ; text-align:center; position: relative; z-index:999; opacity:0.4;}
+.logo1 .link{ width:100%; height:250px; display:block; z-index:10;}
+.dh{ height:53px;
+ width:100%;
+ background:#903;
+ position: relative ; top:0px;
+ z-index:1003;	
+	}
+	.dh ul{ margin-left: 270px;	
+		}
+	.dh ul li{
+		float:left;
+		 border-right:2px solid #000;
+		}
+		.dh ul li .dh_list{height:150px;
+		width:600px;
+		background: #CCC ;
+		position:absolute;
+		opacity:0.8;
+		display:none;
+			}
+	.dh ul li a{
+		display: block; height: 53px; line-height: 53px; width: 150px; text-align: center; color: #FFF ; text-shadow:0px 0px 2px rgba(0,0,0,0.3); text-decoration:none; 
+		}	
+		.dh ul li a:hover{ background: rgba(0,0,0,0.3); _background:#00336a; text-decoration:none; }
+.center_1{
+	margin:auto;
+	height:800px;
+	width:935px;
+	  background:#FFF;
+	 position: relative ; top:0px;
+	}
+      .herder_1{
+		height:65px;
+		
+		
+		width:935px;
+		}
+		.herder_1 .herder_2
+		{  height:65px; width:150px;
+		border:5px solid #FFC;
+		
+		
+		       }
+		.herder_1 .herder_2 h2{
+			margin:auto;
+			padding:17px 17px  ;
+			}
+.zhongjian{
+	height:35px;
+		
+		width:935px;
+	}	
+	
+	.dibu{
+		
+		height:700px;
+		
+		}
+		 .dibuzuo{
+			height:700px;
+			width:640px;
+			
+		
+			
+			
+			
+			} 
+ .dibuzuo font {height:700px;
+			width:640px;}
+ .dibuzuo ul li{width:450px;height:35px;line-height:35px; display:block; }
+ .dibuzuo ul li a{ padding:0px 10px 0px 0px ; display: block; height:35px; line-height:35px; font-size:18px; color: #666666; text-decoration:none; float:left; }
+ .dibuzuo ul li:hover{ background-color: rgba(200,200,200,0.1); color: #000000; text-shadow:0px 0px 1px rgba(0,0,0,0.3); }
+ .dibuzuo ul li span{float: right;color:#939393;font-size: 14px;color: #b2b2b2;}
+.dibuzuo ul li.last{b
+order-bottom: 0px;}
+.dibuzuo ul li .dh_1{
+	height:345px;
+	width:640px;
+	background:#FF6;
+	position:absolute;left:450px;
+	opacity:0.9;
+		display:none;
+	
+	}
+	.dibuzuo ul li .dh_1 ul li a{
+		float:left;
+		
+		
+		
+		
+		}
+	.dibuzuo ul li .dh_1 .dh_2{
+		width:640px;
+		height:55px;
+		
+		
+		} 
+		
+		.dibuzuo ul li .dh_1 .dh_2 a{
+			font-size: 36px;
+			font-weight:300px;
+			font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;     color:#09F;
+			 padding:10px 280px;			
+			}
+.link a{padding:0 5px;color:gray ;text-transform:none;}
+		.link{ color:black;border:1px #ADD8E6 solid; repeat-x;padding: 15px;border-radius:5px; background: #ADD8E6;
+		position:absolute;top:970px;width:1270px;
+		
+			 }
+	
+		.footer{width:1300px;margin:0px auto;position:absolute;top:1020px;}
+.footer .footnav{height:29px; line-height:29px;text-align:center;color:gray;border-top: 1px dotted #CCCCCC;padding-top:10px;}
+.footer .footnav a{ padding:0px 10px; color:gray; border-right:#ccc 1px solid; text-transform:none;}
+.footer .footnav a:hover{color:red;text-decoration:none;}
+.footer .copyright{text-align:center;line-height:24px;padding-bottom:10px;}
+		
+		
+</style>
+<link rel="stylesheet" href="css/zhuce.css"/>
+
+</head>
+
+<body class="html1">
+<div class="dh">
+<ul>
+<li class="file2"><a href="">首页</a>
+ <div class="dh_list">
+</div>
+ </li>
+			
+			<li class="file2"><a href="" >大赛评委</a>
+            <div class="dh_list">
+            </div></li>
+			<li class="file2"><a href="" >合作伙伴</a>
+             <div class="dh_list">
+            </div></li>
+			<!--<li><a href="#here" >作品展示</a></li>-->
+			<li class="file2"><a href="" >团队风采</a>
+             <div class="dh_list">
+            </div></li>
+			<li class="file2"> <a href="">团队介绍</a>
+             <div class="dh_list">
+            </div></li>
+		</ul>
+        </div>
+<div class="center_1">
+
+
+
+
+<div class="herder_1">
+<div class="herder_2">
+<h2  >发布招聘</h2>
+
+</div> 
+</div>
+
+<div class="zhongjian">
+<h2 align="center"  >欢迎来到发布招聘</h2>
+<hr>
+</div>
+
+<div class="dibu">
+
+  <div id="formwrapper">
+    <h3>发布实习招聘</h3>
+    <form action="{:U('blog/index/job_offer')}" method="post" name="apForm" id="apForm">
+     <fieldset>
+        <legend>实习招聘</legend>
+        <p><strong>填写招聘信息要真实有效.</strong> </p>
+        <div>
+        <label for="Position_title"> 职位标题：</label>
+        <input type="text" name="Position_title" id="Position_title" value="" size="20" maxlength="30" /> 
+        *(最多30个字符)<br />    
+    </div>
+       <div>
+        <label for="Position_name"> 职位名称：</label>
+        <input type="password" name="Position_name" id="Position_name" size="18" maxlength="15" /> 
+        *(最多15个字符)<br />
+    </div>
+        <div>
+        <label for="Position_nature">职位性质：</label>
+          <input value="1" checked="checked" type="radio" name="Position_nature" /> 
+                                           兼职
+                                            <input value="2" type="radio" name="Position_nature" /> 
+                                           全职                                            <input value="3" type="radio" name="Position_nature" /> 其他
+       
+        *<br />
+
+    </div>
+        <div>
+        <label for="Work_place">	工作地点：</label>
+        <input type="text" name="Work_place" id="Email" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+    <div>
+        <label for="Sex_require">性别要求：</label>
+                                       <input value="1" checked="checked" type="radio" name="Sex_require" />   男  <input value="2" type="radio" name="Sex_require" />  女    <input value="3" type="radio" name="Sex_require" />  无要求
+        *<br />    
+    </div>    
+    <div>
+        <label for="Require_number"> 招聘人数：</label>
+        <input type="text" name="Require_number" id="Require_number" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+    <div>
+        <label for="Job_offer">工资待遇：</label>
+        <input type="text" name="Job_offer" id="Job_offer" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+    
+     <div>
+        <label for="Work_time"> 工作时间：</label>
+        <input type="text" name="Work_time" id="Work_time" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+     <div>
+        <label for="Position_describe">职位描述：</label>
+        <input type="text" name="Position_describe" id="Position_describe" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+     <div>
+        <label for="Contact"> 联系人：</label>
+        <input type="text" name="Contact" id="Contact" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+    <div>
+        <label for="Contact_way"> 联系方式：</label>
+        <input type="text" name="Contact_way" id="Contact_way" value="" size="20" maxlength="150" /> *<br />    
+    </div>    
+    
+    
+    <div>
+    <label>验证码:</label>
+<input class="text-input" type="text" name="code"/>
+<img src="__APP__/Home/Idt/identifying_crt"/ onclick="show(this)">
+    </div>
+        <div>
+        <label for="AgreeToTerms">同意服务条款</label>
+            <input type="checkbox" name="AgreeToTerms" id="AgreeToTerms" value="1" /> 
+            <a href="#" title="您是否同意服务条款">先看看条款？</a> *    </div>        
+        <div class="enter">
+        <input name="create791" type="submit" class="buttom" value="提交" />
+        <input name="Submit" type="reset" class="buttom" value="重置" />
+    </div>
+
+        <p><strong>* 在提交您的注册信息时, 我们认为您已经同意了我们的服务条款.<br /> 
+        * 这些条款可能在未经您同意的时候进行修改.</strong></p>    
+    </fieldset>
+    </form>
+  </div>
+ 
+</div>
+
+</div>
+<div  class="link">友情链接：<a href="" target="_blank">海南大学</a>&nbsp;<a href="" target="_blank">信息学院</a>&nbsp;<a href="" target="_blank"><span></span></a>&nbsp;<a href="" target="_blank"></a>&nbsp;<a href="" target="_blank"></a></div>
+
+
+<!--底部信息-->
+	<div class="clear blank10"></div>
+    <div class="footer">
+        <div class="footnav">
+        <a href=" ">首页</a>
+				<a href= ">介绍</a>
+				<a href=" ">新闻公告</a>
+				<a href=" ">交流中心</a>
+				<a href=" ">团队介绍</a>
+				<a href=" ">荣誉展示</a>
+					
+        </div>  
+       <div class="copyright">Powered by <a href="" target="_blank">就业创业团队</a>  © 2014</div>
+    </div>
+
+
+
+
+
+
+
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/zzsc.js"></script>
+
+<script type="text/javascript">
+        $(document).ready(function () {
+            $('.dh .file2').hover(function () {   
+                $(this).find('.dh_list').stop().slideDown('slow')
+            }, function () {
+                $(this).find('.dh_list').stop().slideUp('fast')
+            })
+        });
+    </script> 	
+ 
+
+</body>
+</html>

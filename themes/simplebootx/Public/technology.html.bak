@@ -1,0 +1,89 @@
+<div class="box"> 
+    <div class="box-head" style="margin-left:-15px;"> 
+     <h2> <span>创业团队交流热门分类综合讨论区</span> <a href="cyzc/index.shtml" class="more">更多 &gt;&gt;</a> </h2> 
+    </div> 
+    <div class="bottom_bigbox" style="margin-left:-15px;"> 
+     <div class="bottom_smailbox" > 
+      <a href="#"> <img style="float:left" src="__TMPL__Public/images/java.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;Java</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color:  #000;">&nbsp;&nbsp;语法基础/面向对象/核心技术/Java Web/</span>
+      <br /> 
+      <span style="color:  #000;">&nbsp;&nbsp;Java是一种可以撰写跨平台应用软件的面向对象的程序设计语言。Java 技术具有卓越的通用性、高效性、台、/</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left"src="__TMPL__Public/images/android.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;安卓</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color: #000;">&nbsp;&nbsp;是一种基于Linux的自由及开放源代码的操作系统，</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;主要使用于移动设备，如智能手机和平板电脑，由Google公司和开放手机联盟领导及开发。</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left" src="__TMPL__Public/images/web-talk.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;WordP</span></a>&nbsp;&nbsp;<span class="hot-img">Hot </span></h2> 
+      <span style="color: #000;">&nbsp;&nbsp;是一种使用PHP语言开发的博客平台，用户可以在支持PHP</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;和MySQL数据库的服务器上架设属于自己的网站。可以当作一个内容管理系统使用。</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left"src="__TMPL__Public/images/web-qianduan.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;前端</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color:  #000;">&nbsp;&nbsp;主要职责是利用HTML/CSS/JavaScript/等各种Web技术进行客户端产品的开发。</span>
+      <br /> 
+      <span style="color:  #000;">&nbsp;&nbsp;同时结合后台开发技术模拟，进行丰富互联网的Web开发。</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left" src="__TMPL__Public/images/web-houtai.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;后台</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color:  #000;">&nbsp;&nbsp;有时也称为网站管理后台，是指用于管理网站前台的一系列操作</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;如：产品、企业信息的增加、更新、删除等。通过网站管理后台，。</span>
+      <br /> 
+     </div> 
+     
+      <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left" src="__TMPL__Public/images/web-houtai.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;PHP</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color:  #000;">&nbsp;&nbsp;有时也称为网站管理后台，是指用于管理网站前台的一系列操作</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;如：产品、企业信息的增加、更新、删除等。通过网站管理后台，。</span>
+      <br /> 
+     </div> 
+     
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left" src="__TMPL__Public/images/acm-talk.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;ACM</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color: #000;">&nbsp;&nbsp;国际大学生程序设计竞赛/</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;是由美国计算机协会（ACM）主办的,分析和解决问题能力的年度竞赛。/</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left"src="__TMPL__Public/images/wangpan.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;Web</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color: #000;">&nbsp;&nbsp;又称</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;向用户提供文件的存储、访问、备份、共享等文件管理等功能。</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left" src="__TMPL__Public/images/images/shetuan.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;社团</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color:  #000;">&nbsp;&nbsp;是具有某些共同特征的人相聚而成的互益组织。</span>
+      <br /> 
+      <span style="color:  #000;">&nbsp;&nbsp;中国的社团一般具有非盈利和民间化两种基本组织特征。社团与政府组织、非正式组织或自然群体有着明显的区别。</span>
+      <br /> 
+     </div> 
+     <div class="bottom_smailbox"> 
+      <a href="#"> <img style="float:left"src="__TMPL__Public/images/wangpan.png" /> </a> 
+      <h2><a href=" "><span style="color: #F00; font-size: 24px;">&nbsp;&nbsp;网盘</span></a>&nbsp;&nbsp;<span class="hot-img">Hot !</span></h2> 
+      <span style="color: #000;">&nbsp;&nbsp;又称网络U盘、网络硬盘，是由互联网公司推出的在线存储服务</span>
+      <br /> 
+      <span style="color: #000;">&nbsp;&nbsp;向用户提供文件的存储、访问、备份、共享等文件管理等功能。</span>
+      <br /> 
+     </div> 
+    </div> 
+   </div>      

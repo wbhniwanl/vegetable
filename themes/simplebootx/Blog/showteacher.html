@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{$name} {$seo_title} {$site_name}</title>
+	<meta name="keywords" content="{$seo_keywords}" />
+	<meta name="description" content="{$seo_description}">
+    <tc_include file="Public:head" />
+<style>
+	
+	.two{
+		height: 150px;
+	width: 160px;
+     	
+	}
+	.two h2{
+		margin-left: 220px;
+	}
+	.two p{
+		margin-left: 220px;
+	}
+</style>
+</head>
+<body>
+<tc_include file="Public:nav" />
+<div class="container tc-main">
+	
+	
+    <div class="pg-opt pin">
+        <div class="container">
+            <h2>{$name}</h2>
+        </div>
+   
+    <div class="row">
+		<div class="span9">
+			<div class="">
+				
+				<volist name="techer_list1" id="vo">
+						<!--
+                        	作者：1015113845@qq.com
+                        	时间：2016-06-02
+                        	描述：教师头像
+                       -->
+				  <!--
+                  	作者：1015113845@qq.com
+                  	时间：2016-06-02
+                  	描述：教师名称与简介
+                  -->
+                    <div class="two">
+                    	<a></a>
+					<h2><a href="{:U('blog/index/job_output',array('id'=>$vo['position_id']))}">{$vo.teacher_name}</a></h2>
+					<p style="font-size:16px;">{$vo.Te_job}</p>
+					</div>	
+					<div>
+						<div class="pull-left">
+							<div class="list-actions">							
+							</a>
+							</div>
+					</div>					
+					</div>
+				
+				</volist>
+				
+			</div>
+			<div class="pagination"><ul>{$lists['page']}</ul></div>
+		</div>
+		
+    </div>  
+    <tc_include file="Public:footer" />
+</div>   
+<!-- JavaScript -->
+<tc_include file="Public:scripts" />
+</body>
+</html>

@@ -1,0 +1,14 @@
+<?php
+namespace Company\Controller;
+use Common\Controller\HomebaseController;
+
+class IndexController extends HomebaseController{
+	
+		function index(){
+	    if(sp_is_user_login()){ //已经登录时直接跳到首页
+	        $this->redirect('blog/index/jump', array('cate_id' => 2), 5, '页面跳转中...');
+	    }else{
+	        $this->display(":companylogin");
+	    }
+	}
+}

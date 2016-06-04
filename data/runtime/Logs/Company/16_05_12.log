@@ -1,0 +1,31 @@
+[ 2016-05-12T14:37:25+08:00 ] 127.0.0.1 /index.php?g=company&m=register&a=doregister
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `cmf_user_list` [ RunTime:0.0040s ]
+
+[ 2016-05-12T14:37:37+08:00 ] 127.0.0.1 /index.php?g=company&m=register&a=doregister
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `cmf_user_list` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_user_list` WHERE `User_id` = 'fanwei' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cmf_user_list` (`User_id`,`Password`,`Company_name`,`Company_address`,`Content_way`) VALUES ('fanwei','12345','1','1','1') [ RunTime:0.0010s ]
+
+[ 2016-05-12T14:55:38+08:00 ] 127.0.0.1 /index.php?g=Company&m=profile&a=edit
+ERR: 无法加载控制器:Profile
+
+[ 2016-05-12T14:56:34+08:00 ] 127.0.0.1 /index.php?g=Company&m=profile&a=password
+ERR: 无法加载控制器:Profile
+
+[ 2016-05-12T15:19:55+08:00 ] 127.0.0.1 /index.php?g=Company&m=profile&a=fusta
+ERR: 无法加载控制器:Profile
+
+[ 2016-05-12T15:20:01+08:00 ] 127.0.0.1 /index.php?g=Company&m=profile&a=fustu
+ERR: 无法加载控制器:Profile
+
+[ 2016-05-12T15:20:03+08:00 ] 127.0.0.1 /index.php?g=Company&m=profile&a=93
+ERR: 无法加载控制器:Profile
+

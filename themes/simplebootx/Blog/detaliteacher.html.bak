@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>导师个人信息</title>
+		 <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+		<tc_include file="Public:head" />
+		<style>
+			#article_content img{height:auto !important}
+			#article_content {word-wrap: break-word;}
+    		.btn {margin-top: 33px;}
+			
+			.xianshi{margin:5px;
+			font-weight:900;
+			font-size:22px;
+			}
+			.xianshi pre:hover{
+			background:#ffffff;
+			}
+			.xianshi pre{
+			
+			background:#D1D1D1;
+			
+			}
+			
+		</style>
+	</head>
+<body class="">
+<tc_include file="Public:nav" />
+<div class="container tc-main">
+	<div class="row">
+		<div  style="border: 1px solid ;margin: 0 auto;width: 900px">
+			
+			<div class="tc-box first-box article-box">
+		    	<h2>{$post_title}</h2>
+		    	<div class="article-infobox">
+
+
+		    	</div>
+				<volist name="Job_offer" id="vo">
+				<div style="overflow: auto">
+					<div style="float: left; margin-left: 100px;margin:auto; font-size: large">
+
+						<!-- <pre>用 户 名：{$vo.user_id}</br></pre> -->
+						导师姓名：{$vo.teacher_name}</br></br>
+						联系电话：<a style="color: #FF0000">{$vo.content_way}</a></br></br>
+						联系地址：{$vo.address}</br></br>
+						邮箱：{$vo.email}</br></br>
+						辅导状态：{$vo.te_state}</br></br>
+						最大辅导人数：{$vo.max_number}</br></br>
+						性别：{$vo.sex}</br></br>
+						
+						
+					</div>
+						
+
+				</div>
+
+				</volist>
+
+		    	<div>
+					<if condition="!empty($prev)">
+					<a href="{:leuu('article/index',array('id'=>$prev['tid'],'cid'=>$prev['term_id']))}" class="btn btn-primary pull-left">上一篇</a>
+					</if>
+					<if condition="!empty($next)">
+					<a href="{:leuu('article/index',array('id'=>$next['tid'],'cid'=>$next['term_id']))}" class="btn btn-warning pull-right">下一篇</a>
+					</if>
+    	            <script type="text/javascript" src="__TMPL__Public/js/qrcode.min.js"></script>
+                    <div id="qrcode" style="width: 100px;margin:0 auto"></div>
+    					
+					<div class="clearfix"></div>
+				</div>
+		    	
+		    	
+		    	{:hook('comment',array(
+		    		'post_id'=>$object_id,
+		    		'post_table'=>'posts',
+		    		'post_title'=>$post_title
+		    	))}
+		    </div>
+		    
+		    <php>$ad=sp_getad("portal_article_bottom");</php>
+			<if condition="!empty($ad)">
+        	
+			</if>
+		    
+		</div>
+		
+		
+	</div>
+              
+<tc_include file="Public:footer"/>
+</div>
+
+<tc_include file="Public:scripts"/>
+</body>
+</html>

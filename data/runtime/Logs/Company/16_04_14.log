@@ -1,0 +1,11 @@
+[ 2016-04-14T21:31:36+08:00 ] 127.0.0.1 /index.php?g=company&m=register&a=doregister
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `cmf_user_list` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_options` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cmf_options` WHERE ( option_name='cmf_settings' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_user_list` WHERE `User_id` = '樊伟' LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `cmf_user_list` (`User_id`,`Password`,`Company_name`,`Company_address`,`Content_way`) VALUES ('樊伟','98765','中国中铁','北京市朝阳区','2147483647') [ RunTime:0.0000s ]
+

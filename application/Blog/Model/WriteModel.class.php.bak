@@ -1,0 +1,100 @@
+<?php
+
+namespace Home\Model;
+use Think\Model;
+
+
+class WriteModel extends Model {
+
+
+
+	public function Write_user($username,$pwd,$company_name=null,$company_address=null,$content_way=null){
+if($company_name==null&&$company_address==null&&$content_way==null){//存入注册的用户信息 巧妙的利用了if判断语句，简洁的完成了参数不同的方法的重载,
+
+	    $User = M('user_list');
+		
+		$data['User_id'] = $username;
+		$data['Password'] = $pwd;
+	    $user_info = $User->add($data);
+		return $user_info;
+
+}
+
+		$User = M('user_list');
+		//$username,$pwd,$company_name,$company_address,$content_way
+		$data['User_id'] = $username;
+		$data['Password'] = $pwd;
+		$data['Company_name']=$company_name;
+		$data['Company_address']=$company_address;
+		$data['Content_way']=$content_way;
+		$user_info = $User->add($data);
+
+		return $user_info;
+
+	}
+
+	 public function write_offer($Position_title,$Position_name,$Positio
+		 n_nature,$Work_place,$Sex_require,$Require_number,$Job_offer,$W
+		 ork_time,$Position_describe,$Contact,$Contact_way){
+	 //招聘信息导入数据库的模板
+	   $User = M('recruit_list');
+	    $data['Position_title']=$Position_title;
+		$User_id=session('name');
+		$data['User_id']=$User_id;
+		//$data['Position_name']=$Position_name;
+		$data['Position_nature']=$Position_nature;
+		$data['Work_place']=$Work_place;
+		//$data['Sex_require'] = $Sex_require;
+		$data['Require_number'] = $Require_number;
+		$data['Job_offer']=$Job_offer;
+		$data['Work_time']=$Work_time;
+		$data['Position_describe']=$Position_describe;
+		$data['Contact'] = $Contact;
+		$data['Contact_way'] = $Contact_way;
+
+if($Sex_require==1){
+$data['Sex_require']="男";
+}
+if($Sex_require==2){
+$data['Sex_require']="女";
+}
+if($Sex_require==3){
+$data['Sex_require']="无";
+}
+
+		$recruit_info = $User->add($data);
+		return $recruit_info;
+
+	 }
+
+
+
+
+
+
+/*	public function __call($method, $p)
+    {//利用_Call方法完成方法的重载
+	 PHP5 中重载可以通过 __get, __set, and __call 几个特殊方法来进行。当 Zend 引擎试图访问一个成员并没有找到时，PHP将会调用这些方法。 
+     在以下示例中,__get和__set代替所有对属性变量数组的访问。如果必要,你还可以实现任何类型你想要的过滤。
+     例如,脚本可以禁止设置属性值, 在开始时用一定的前缀或包含一定类型的值。
+     __call 方法说明了你如何调用未经定义的方法。
+     你调用未定义方法时,方法名和方法接收的参数将会传给__call方法, PHP传递__call的值返回给未定义的方法。 
+      
+        if($method == 'Write_user')
+        {
+            if(count($p)==2){
+		 $this->Write_user_two($p[0],$p[1]);
+		
+			}
+        if(count($p)==5){
+		  $this->Write_user_five($p[0],$p[1],$p[2],$p[3],$p[4]);
+		
+		}
+
+           
+        }
+*/
+}
+
+
+?>

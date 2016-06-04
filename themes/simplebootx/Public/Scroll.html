@@ -1,0 +1,74 @@
+<style type="text/css">
+.mqs{ margin:auto; width:300px; height:400px;}
+</style>
+<div class="mqs">
+    <div id="mq" style="OVERFLOW: hidden;  margin:0 auto; HEIGHT:400px;">
+        <ul>
+            <li>
+						<div class="cont1" style="height: 133px;">
+                       <img src="__TMPL__Public/images/111.png">
+						</div>
+			</li>
+				
+            
+            <li>
+						<div  class="cont1" style="height:133px; ">
+							<img src="__TMPL__Public/images/112.png">
+						</div>
+             </li>
+
+							<li>
+						<div   class="cont1" style="height:133px; ">
+							<img src="__TMPL__Public/images/113.png">
+						</div>
+              </li>
+              <li>
+						<div   class="cont1" style="height: 133px; ">
+							<img src="__TMPL__Public/images/114.png">
+						</div>
+              </li>
+
+              <li>
+						<div class="cont1" style="height: 133px;">
+                       <img src="__TMPL__Public/images/111.png">
+						</div>
+			</li>
+				
+            
+            <li>
+						<div  class="cont1" style="height:133px; ">
+							<img src="__TMPL__Public/images/112.png">
+						</div>
+             </li>
+
+							<li>
+						<div   class="cont1" style="height:133px; ">
+							<img src="__TMPL__Public/images/113.png">
+						</div>
+              </li>
+              <li>
+						<div   class="cont1" style="height: 133px; ">
+							<img src="__TMPL__Public/images/114.png">
+						</div>
+              </li>
+            
+
+           
+        </ul>
+    </div>
+</div>
+<script>
+	var oMarquee = document.getElementById("mq"); //滚动对象
+	var iLineHeight = 130; //单行高度，像素
+	var iLineCount =9; //实际行数
+	var iScrollAmount = 1; //每次滚动高度，像素
+	function run() { oMarquee.scrollTop += iScrollAmount;
+		if ( oMarquee.scrollTop == iLineCount * iLineHeight )
+			oMarquee.scrollTop = 0;
+		if ( oMarquee.scrollTop % iLineHeight == 0 )
+		{ window.setTimeout( "run()", 2500 ); }
+		else
+		{ window.setTimeout( "run()", 10 ); }
+	} oMarquee.innerHTML += oMarquee.innerHTML; window.setTimeout( "run()", 2500 );
+</script>
+

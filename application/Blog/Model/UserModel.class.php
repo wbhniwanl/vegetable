@@ -1,0 +1,51 @@
+<?php
+
+namespace Home\Model;
+use Think\Model;
+
+
+class UserModel extends Model {
+
+	public function CheckUser($username,$pwd){
+	
+		$User = M('user_list');
+		$map['User_id'] = $username;
+		$map['Password'] = $pwd;
+       
+       $user_info = $User->where($map)->select();
+		return $user_info;
+
+	}
+
+public function CheckUser1($username){
+	
+		$User = M('user_list');
+		$map['User_id'] = $username;
+        $map['Sign']=1;
+		$user_info1=$User->where($map)->select();
+		return $user_info1; 
+
+	}
+	public function CheckUser_id($username){
+	
+
+		$User = M('user_list');
+		
+		$map['User_id'] = $username;
+	
+		$user_info = $User->where($map)->select();
+		
+		return $user_info;
+
+	}
+
+/*	public function queryAllShuoshuo(){
+	
+		$Shuoshuo = M('shuoshuo');
+		return $Shuoshuo->select();
+	}
+*/
+}
+
+
+?>

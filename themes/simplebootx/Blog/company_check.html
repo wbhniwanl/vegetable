@@ -1,0 +1,113 @@
+
+
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>{$post_title} {$site_name} </title>
+		<meta name="keywords" content="{$post_keywords}" />
+		<meta name="description" content="{$post_excerpt}">
+		<tc_include file="Public:head" />
+		<style>
+			#article_content img{height:auto !important}
+			#article_content {word-wrap: break-word;}
+    		.btn {margin-top: 33px;}
+			
+			.xianshi{margin:5px;
+			font-weight:900;
+			font-size:22px;
+			}
+			.xianshi pre:hover{
+			background:#ffffff;
+			}
+			.xianshi pre{
+			
+			background:#D1D1D1;
+			
+			}
+			
+		</style>
+	</head>
+<body class="">
+
+<div class="container tc-main">
+	<div class="row">
+		<div  style="border: 1px solid ;margin: 0 auto;width: 900px">
+			
+			<div class="tc-box first-box article-box">
+		    	<h2>{$post_title}</h2>
+		    	<div class="article-infobox">
+
+
+		    	</div>
+				<volist name="Job_offer" id="vo">
+				<div style="overflow: auto">
+					<div style="float: left; margin-left: 100px;margin:auto; font-size: large">
+
+						<!-- <pre>用 户 名：{$vo.user_id}</br></pre> -->
+						职位标题：{$vo.position_title}</br></br>
+						职位名称：<a style="color: #FF0000">{$vo.position_name}</a></br></br>
+						职位性质：{$vo.position_nature}</br></br>
+						工作地点：{$vo.work_place}</br></br>
+						性别要求：{$vo.sex_require}</br></br>
+					</div>
+						<div style="float:right;margin-right:200px ;font-size: large">
+
+							人数要求：{$vo.require_number}</br></br>
+							工  资:<a style="color: #FF0000"> {$vo.job_offer}</a></br></br>
+							工作时间：{$vo.work_time}</br></br>
+							联 系 人：{$vo.contact}</br></br>
+							联系方式：<a style="color: #FF0000">{$vo.contact_way}</a></br></br>
+						</div>
+
+				</div>
+
+
+
+
+
+					<div style=" margin: auto;">
+						<div style="width: 90px;border: 1px solid;font-size: large;margin-top: 30px"> 工作描述 </div>
+						<div style="margin-left: 20px;font-size: large;line-height: 1.5">
+							</br>{$vo.position_describe}</br></div>
+
+
+					</div>
+				</volist>
+
+		    	<div>
+					<if condition="!empty($prev)">
+					<a href="{:leuu('article/index',array('id'=>$prev['tid'],'cid'=>$prev['term_id']))}" class="btn btn-primary pull-left">上一篇</a>
+					</if>
+					<if condition="!empty($next)">
+					<a href="{:leuu('article/index',array('id'=>$next['tid'],'cid'=>$next['term_id']))}" class="btn btn-warning pull-right">下一篇</a>
+					</if>
+    	            <script type="text/javascript" src="__TMPL__Public/js/qrcode.min.js"></script>
+                    <div id="qrcode" style="width: 100px;margin:0 auto"></div>
+    					
+					<div class="clearfix"></div>
+				</div>
+		    	
+		    	
+		    	{:hook('comment',array(
+		    		'post_id'=>$object_id,
+		    		'post_table'=>'posts',
+		    		'post_title'=>$post_title
+		    	))}
+		    </div>
+		    
+		    <php>$ad=sp_getad("portal_article_bottom");</php>
+			<if condition="!empty($ad)">
+        	
+			</if>
+		    
+		</div>
+		
+		
+	</div>
+              
+<tc_include file="Public:footer"/>
+</div>
+
+<tc_include file="Public:scripts"/>
+</body>
+</html>

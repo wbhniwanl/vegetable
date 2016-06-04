@@ -1,0 +1,982 @@
+[ 2016-04-16T00:33:11+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:33:11+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:34:06+08:00 ] 127.0.0.1 /index.php?g=Portal&m=AdminPost&a=index&menuid=7
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:34:10+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:34:19+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:34:19+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:34:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:34:40+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:34:40+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:35:18+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:35:24+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:35:24+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:35:58+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:35:58+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:36:01+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:36:07+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:36:29+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:36:29+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:36:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:36:34+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:36:34+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:37:00+08:00 ] 127.0.0.1 /index.php?g=Portal&m=AdminPost&a=index&menuid=7
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:37:02+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:39:20+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cmf_posts` (`post_title`,`post_keywords`,`post_source`,`post_excerpt`,`post_modified`,`post_status`,`istop`,`recommended`,`post_content`,`post_date`,`post_author`,`smeta`) VALUES ('习近平为何说&quot;国家安全是头等大事&quot;','习近平','网易','习近平','2016-04-16 00:37:02','1','1','0','<p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“实现中华民族伟大复兴的中国梦，保证人民安居乐业，国家安全是头等大事。”在4月15日首个全民国家安全教育日到来之际，中共中央总书记、国家主席、中央军委主席、中央国安委主席习近平作出重要指示。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“国家安全是头等大事”这一表述，习近平总书记不止一次提及。为何如此强调重视“国家安全”？专家指出，当前国内外安全形势复杂，国家安全的内涵较以往大大扩展，每一个人自身的安全都与国家安全紧密相连，加强公众的国家安全意识教育刻不容缓。</p><p>&nbsp; &nbsp;<strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">国家安全顶层设计不断推进、步履稳健</strong></p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp; &nbsp;</strong></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">中国人民大学国际事务研究所所长王义桅在接受人民网记者采访时指出，“在当前的新形势下，我国的国家安全应当‘内外兼修’。从外部环境来讲，我国需要提高风险意识、忧患意识；从国内来讲，国家的安全机制、安全能力建设都需要逐步完善。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">回顾新一届中央领导集体上任以来，我国的国家安全顶层设计正不断推进、步履稳健。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2013年11月，十八届三中全会公报提出，设立国家安全委员会。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年1月，中共中央政治局研究决定中央国家安全委员会设置，习近平任国安委主席，李克强、张德江任副主席。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年4月，中央国家安全委员会第一次全体会议召开，习近平将保证国家安全明确列为头等大事，“总体国家安全”首次被系统地提出。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2015年5月，全国国家安全机关总结表彰大会召开，习近平对“国安干部”提出“坚定纯洁、让党放心、甘于奉献、能拼善赢”16个字的标准要求。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2015年7月，第十二届全国人大常委会第十五次会议通过《中华人民共和国国家安全法》，将每年4月15日确定为全民国家安全教育日。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年4月15日，习近平在国安委第一次会议上指出，当前我国国家安全内涵和外延比历史上任何时候都要丰富，时空领域比历史上任何时候都要宽广，内外因素比历史上任何时候都要复杂，必须坚持总体国家安全观。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">北京大学中国战略研究中心主任叶自成认为，近年来，我国的国家安全体系发生了很大改变，成立了国家安全委员会，通过了新的国家安全法，需要公众从更重要的视角上看待国家安全问题，这也是“全民国家安全教育日”设立的现实意义所在。</p><p>&nbsp;&nbsp;<strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">百姓“安全感”首先来自“国家安全”</strong><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\"></strong><br/></p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;</strong></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">习近平在对全民国家安全教育日作出的重要指示中谈到：“要坚持国家安全一切为了人民、一切依靠人民，动员全党全社会共同努力，汇聚起维护国家安全的强大力量，夯实国家安全的社会基础，防范化解各类安全风险，不断提高人民群众的安全感、幸福感。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">叶自成指出，国家安全看起来离老百姓远，但是实际上，事关每个普通人的生活。百姓的“安全感”首先来自“国家安全”。“我国的国家安全观，是一个大的概念，既包括政治安全、国土安全等‘大’的方面，也包括生态安全、资源安全等‘小’的方面。‘大安全’与‘小安全’紧密联系一起，各部门、各行业互相联动，共同保障着百姓个人的生命财产安全。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“国家安全问题，最终还是保障人民群众的安全问题，任何不安全的因素最直接受到影响的也是人民群众。” 叶自成谈到。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">王义桅认为，公众的“国家安全意识”有待提升，他形象地说，“安全对于国家而言，就像健康对个人而言一样，一个人如果平时意识不到健康的重要性，忽视了锻炼身体，等生病的时候才意识到就晚了。</p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\"></strong><br/></p>','2016-04-16 00:39:20','1','{\"thumb\":\"20160416\\/5711192145c1b.jpg\"}') [ RunTime:0.0000s ]
+SQL: INSERT INTO `cmf_term_relationships` (`term_id`,`object_id`) VALUES ('1','3') [ RunTime:0.0000s ]
+
+[ 2016-04-16T00:39:23+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:39:26+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:39:27+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:39:30+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:39:41+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:39:41+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:41:18+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit&term=&id=3
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:41:28+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016000s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0000s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 3 AND `term_id` NOT IN ('1') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 3 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 3 AND `term_id` = '1' [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='习近平为何说&quot;国家安全是头等大事&quot;',`post_keywords`='习近平',`post_source`='网易',`post_excerpt`='习近平',`post_modified`='2016-04-16 00:37:02',`post_status`='1',`istop`='1',`recommended`='0',`post_content`='<p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“实现中华民族伟大复兴的中国梦，保证人民安居乐业，国家安全是头等大事。”在4月15日首个全民国家安全教育日到来之际，中共中央总书记、国家主席、中央军委主席、中央国安委主席习近平作出重要指示。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“国家安全是头等大事”这一表述，习近平总书记不止一次提及。为何如此强调重视“国家安全”？专家指出，当前国内外安全形势复杂，国家安全的内涵较以往大大扩展，每一个人自身的安全都与国家安全紧密相连，加强公众的国家安全意识教育刻不容缓。</p><p>&nbsp; &nbsp;<strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">国家安全顶层设计不断推进、步履稳健</strong></p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp; &nbsp;</strong></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">中国人民大学国际事务研究所所长王义桅在接受人民网记者采访时指出，“在当前的新形势下，我国的国家安全应当‘内外兼修’。从外部环境来讲，我国需要提高风险意识、忧患意识；从国内来讲，国家的安全机制、安全能力建设都需要逐步完善。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">回顾新一届中央领导集体上任以来，我国的国家安全顶层设计正不断推进、步履稳健。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2013年11月，十八届三中全会公报提出，设立国家安全委员会。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年1月，中共中央政治局研究决定中央国家安全委员会设置，习近平任国安委主席，李克强、张德江任副主席。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年4月，中央国家安全委员会第一次全体会议召开，习近平将保证国家安全明确列为头等大事，“总体国家安全”首次被系统地提出。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2015年5月，全国国家安全机关总结表彰大会召开，习近平对“国安干部”提出“坚定纯洁、让党放心、甘于奉献、能拼善赢”16个字的标准要求。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2015年7月，第十二届全国人大常委会第十五次会议通过《中华人民共和国国家安全法》，将每年4月15日确定为全民国家安全教育日。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年4月15日，习近平在国安委第一次会议上指出，当前我国国家安全内涵和外延比历史上任何时候都要丰富，时空领域比历史上任何时候都要宽广，内外因素比历史上任何时候都要复杂，必须坚持总体国家安全观。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">北京大学中国战略研究中心主任叶自成认为，近年来，我国的国家安全体系发生了很大改变，成立了国家安全委员会，通过了新的国家安全法，需要公众从更重要的视角上看待国家安全问题，这也是“全民国家安全教育日”设立的现实意义所在。</p><p>&nbsp;&nbsp;<strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">百姓“安全感”首先来自“国家安全”</strong><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\"></strong><br/></p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;</strong></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">习近平在对全民国家安全教育日作出的重要指示中谈到：“要坚持国家安全一切为了人民、一切依靠人民，动员全党全社会共同努力，汇聚起维护国家安全的强大力量，夯实国家安全的社会基础，防范化解各类安全风险，不断提高人民群众的安全感、幸福感。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">叶自成指出，国家安全看起来离老百姓远，但是实际上，事关每个普通人的生活。百姓的“安全感”首先来自“国家安全”。“我国的国家安全观，是一个大的概念，既包括政治安全、国土安全等‘大’的方面，也包括生态安全、资源安全等‘小’的方面。‘大安全’与‘小安全’紧密联系一起，各部门、各行业互相联动，共同保障着百姓个人的生命财产安全。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“国家安全问题，最终还是保障人民群众的安全问题，任何不安全的因素最直接受到影响的也是人民群众。” 叶自成谈到。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">王义桅认为，公众的“国家安全意识”有待提升，他形象地说，“安全对于国家而言，就像健康对个人而言一样，一个人如果平时意识不到健康的重要性，忽视了锻炼身体，等生病的时候才意识到就晚了。</p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\"></strong><br/></p>',`smeta`='{\"thumb\":\"20160416\\/571119b2e3c1a.jpg\"}' WHERE `id` = '3' [ RunTime:0.0000s ]
+
+[ 2016-04-16T00:41:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:41:31+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:42:59+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:43:02+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:44:58+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017001s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0000s ]
+SQL: INSERT INTO `cmf_posts` (`post_title`,`post_keywords`,`post_source`,`post_excerpt`,`post_modified`,`post_status`,`istop`,`recommended`,`post_content`,`post_date`,`post_author`,`smeta`) VALUES ('增强现实带你重游丝绸之路','VR','网易','VR','2016-04-16 00:43:02','1','0','0','<p>&nbsp;</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\"><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111a7fd6669.jpg\" title=\"D4B8AAD9A71A19D721A0EE4FE87BC058.jpg\" alt=\"D4B8AAD9A71A19D721A0EE4FE87BC058.jpg\"/></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">我们当中的大部分人都没有机会参观中国著名的丝绸之路的考古遗址，但NSW美术馆的一个全新展览将改变这一情况——用“增强现实”技术呈现出一场精妙绝伦的互动展览，把观众带回古老的世界遗产名录遗址莫高窟。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">在《唐代：丝绸之路首府的宝藏》展览中，游览者可以进入一个房间大小的场景中，这个场景重现了——UNESCO世界遗产名录中莫高窟的景象，目前该地区处于维护状态，不对外开放。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">位于丝绸之路十字路口的莫高窟享有”千佛洞”的美誉，内有700多个洞穴，洞穴中有多个雕塑、壁画和多处历史遗迹。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">这一项目由NSW大学考古学教授Sarah Kenerdine和香港城市大学创意媒体学院院长Jeffrey Shaw教授合作推广，由城市大学跨学科艺术研究院ALiVE研发，观众可以在悉尼体验其中一个洞穴。</p><p>&nbsp;&nbsp;</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">AGNSW总监Michael Brand表示接近原大小的重建场景（约为一间客厅的大小）把游客带到了莫高窟，观众可以使用提供的<a href=\"http://tech.163.com/company/ipad/\" style=\"color: rgb(15, 107, 153);\">iPad</a>来实时查看壁画和雕塑的细节。他补充说展馆利用一切机会将合适的技术和展览相结合以提升游客的体验。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">Kenerdine教授表示，实时的游览有一定的限制，但这些限制是无法避免的。</p><p>&nbsp;&nbsp;</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">她告诉ArtsHub：“就发表过的洞穴中，壁画和雕塑都由玻璃箱保护着，这限制了游客观赏时的清晰度，同时也让人们和壁画保持一定距离。洞穴中唯一的光源来自低强度的LED手电筒，导游手中也会拿一个手电筒，以解释壁画上的图像和雕塑的意义。此外，220洞穴，也就是纯净之地增强现实展览所展出的洞穴对公众永久关闭，因为其中的壁画意义非凡但极其脆弱。这一数字展品让观众可以无限 接近 洞穴中的文化瑰宝，清晰度和真实度都是无与伦比的。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">完成3D增强版展览所需的照片排列和激光扫描总共耗费了三个月。Kenderdine教授凭借《纯净之地：敦煌莫高窟》的展览荣获CHASS 澳大利亚杰出工作奖.</p><p><br/></p>','2016-04-16 00:44:58','1','{\"thumb\":\"20160416\\/57111a865931c.jpg\"}') [ RunTime:0.0000s ]
+SQL: INSERT INTO `cmf_term_relationships` (`term_id`,`object_id`) VALUES ('1','4') [ RunTime:0.0000s ]
+
+[ 2016-04-16T00:45:01+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:45:04+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit&term=&id=3
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:45:18+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.014001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020001s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0040s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 3 AND `term_id` NOT IN ('1') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 3 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 3 AND `term_id` = '1' [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='习近平为何说&quot;国家安全是头等大事&quot;',`post_keywords`='习近平',`post_source`='网易',`post_excerpt`='习近平',`post_modified`='2016-04-16 00:37:02',`post_status`='1',`istop`='1',`recommended`='0',`post_content`='<p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\"><br/></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“实现中华民族伟大复兴的中国梦，保证人民安居乐业，国家安全是头等大事。”在4月15日首个全民国家安全教育日到来之际，中共中央总书记、国家主席、中央军委主席、中央国安委主席习近平作出重要指示。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\"><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111a9aadb7d.jpg\" title=\"9f2f070828381f30a0456957a9014c086f06f0f4.jpg\" alt=\"9f2f070828381f30a0456957a9014c086f06f0f4.jpg\"/></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“国家安全是头等大事”这一表述，习近平总书记不止一次提及。为何如此强调重视“国家安全”？专家指出，当前国内外安全形势复杂，国家安全的内涵较以往大大扩展，每一个人自身的安全都与国家安全紧密相连，加强公众的国家安全意识教育刻不容缓。</p><p>&nbsp; &nbsp;<strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">国家安全顶层设计不断推进、步履稳健</strong></p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp; &nbsp;</strong></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">中国人民大学国际事务研究所所长王义桅在接受人民网记者采访时指出，“在当前的新形势下，我国的国家安全应当‘内外兼修’。从外部环境来讲，我国需要提高风险意识、忧患意识；从国内来讲，国家的安全机制、安全能力建设都需要逐步完善。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">回顾新一届中央领导集体上任以来，我国的国家安全顶层设计正不断推进、步履稳健。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2013年11月，十八届三中全会公报提出，设立国家安全委员会。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年1月，中共中央政治局研究决定中央国家安全委员会设置，习近平任国安委主席，李克强、张德江任副主席。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年4月，中央国家安全委员会第一次全体会议召开，习近平将保证国家安全明确列为头等大事，“总体国家安全”首次被系统地提出。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2015年5月，全国国家安全机关总结表彰大会召开，习近平对“国安干部”提出“坚定纯洁、让党放心、甘于奉献、能拼善赢”16个字的标准要求。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2015年7月，第十二届全国人大常委会第十五次会议通过《中华人民共和国国家安全法》，将每年4月15日确定为全民国家安全教育日。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">2014年4月15日，习近平在国安委第一次会议上指出，当前我国国家安全内涵和外延比历史上任何时候都要丰富，时空领域比历史上任何时候都要宽广，内外因素比历史上任何时候都要复杂，必须坚持总体国家安全观。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">北京大学中国战略研究中心主任叶自成认为，近年来，我国的国家安全体系发生了很大改变，成立了国家安全委员会，通过了新的国家安全法，需要公众从更重要的视角上看待国家安全问题，这也是“全民国家安全教育日”设立的现实意义所在。</p><p>&nbsp;&nbsp;<strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">百姓“安全感”首先来自“国家安全”</strong><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\"></strong><br/></p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;</strong></p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">习近平在对全民国家安全教育日作出的重要指示中谈到：“要坚持国家安全一切为了人民、一切依靠人民，动员全党全社会共同努力，汇聚起维护国家安全的强大力量，夯实国家安全的社会基础，防范化解各类安全风险，不断提高人民群众的安全感、幸福感。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">叶自成指出，国家安全看起来离老百姓远，但是实际上，事关每个普通人的生活。百姓的“安全感”首先来自“国家安全”。“我国的国家安全观，是一个大的概念，既包括政治安全、国土安全等‘大’的方面，也包括生态安全、资源安全等‘小’的方面。‘大安全’与‘小安全’紧密联系一起，各部门、各行业互相联动，共同保障着百姓个人的生命财产安全。”</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">“国家安全问题，最终还是保障人民群众的安全问题，任何不安全的因素最直接受到影响的也是人民群众。” 叶自成谈到。</p><p style=\"margin-top: 32px; margin-bottom: 0px; padding: 0px; font-size: 18px; text-indent: 2em; font-stretch: normal; line-height: 32px; font-family: &#39;Microsoft Yahei&#39;; color: rgb(64, 64, 64); text-align: justify; white-space: normal; background-color: rgb(255, 255, 255);\">王义桅认为，公众的“国家安全意识”有待提升，他形象地说，“安全对于国家而言，就像健康对个人而言一样，一个人如果平时意识不到健康的重要性，忽视了锻炼身体，等生病的时候才意识到就晚了。</p><p><strong style=\"color: rgb(64, 64, 64); font-family: &#39;Microsoft Yahei&#39;; font-size: 18px; line-height: 32px; text-align: justify; text-indent: 36px; white-space: normal; background-color: rgb(255, 255, 255);\"></strong><br/></p>',`smeta`='{\"thumb\":\"20160416\\/571119b2e3c1a.jpg\"}' WHERE `id` = '3' [ RunTime:0.0010s ]
+
+[ 2016-04-16T00:45:20+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:46:56+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:48:37+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0040s ]
+SQL: INSERT INTO `cmf_posts` (`post_title`,`post_keywords`,`post_source`,`post_excerpt`,`post_modified`,`post_status`,`istop`,`recommended`,`post_content`,`post_date`,`post_author`,`smeta`) VALUES ('你们在谈VR高科技，谷歌却从披萨盒眼镜搞起，是谷歌疯了？','VR','网易','VR','2016-04-16 00:46:56','1','0','0','<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b3149e74.jpg\" title=\"193324597120.jpg\" alt=\"193324597120.jpg\"/></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; 在谷歌正式招揽“VR技术人员”之前，克雷·巴沃尔（Clay Bavor）早就成为了谷歌内部赫赫有名的“VR小达人”。而如今，他终于得以带领团队一门心思地折腾他热爱的VR技术了。这位一脸稚气的帅小伙是谷歌虚拟现实技术部门副总裁——这可是一个有着“数百名”员工的团队。他们占据了谷歌园区的一栋建筑。这距离桑达尔·皮查伊（Sundar Pichai）无意中在台上提到了谷歌的第一款VR产品，过去不到两年。</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;<span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">Cardboard带来的惊喜</span></span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\"> &nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">这款产品即是“Cardboard”，它是一种廉价的简易头戴式装置，其图像质量根本无法与Oculus Rift或HTC Vive相媲美，而关注度与竞争对手相比也相形见绌。但巴沃尔并未因此而退缩。他以一种并不常见的方式来推广这款产品：谷歌赠送和售出了数千个Cardboard，而品牌厂商更是将Cardboard免费送人，鼓励他们试用自己开发的虚拟现实应用；从《纽约时报》到科切拉音乐节（Coachella）主办方，每个公司都将Cardboard送给了他们的客户。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔说：“它让我们参与了解虚拟现实技术，让更多的人知道了虚拟现实技术开发之初的故事——如果没有它，可能根本没有那么多人关注。”到2016年1月份，Cardboard的出货量达到500万部，那个时候，Vive、Rift或Playstation VR还没有上市发售。相比之下，谷歌的虚拟现实技术是面向每个人的，而且已经上市。</p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b4caabce.png\" title=\"0628387963.png\" alt=\"0628387963.png\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但是不要搞错，谷歌对虚拟现实技术的兴趣已经远远超出Cardboard的范畴：他们投资了极具神秘色彩的增强现实平台Magic Leap，并且收购了Tilt Brush——这是一款让人可以自由发挥的绘画应用，用虚拟现实的无限可能性来激发大脑潜能。就在其他虚拟现实公司试图先不断完善产品、再在未来的某一天去做到无处不在的时候，谷歌已经将这一模式付诸于实践：让尽可能多的人尽快地使用虚拟现实技术，然后再将它变成伟大的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔团队内部已经提出了实现这一目标的宏伟蓝图，其计划涉及谷歌当前所从事的几乎一切业务，同时还与其他许多事情存在关联；这些计划还涉及你的智能手机，以及远远超出这一范畴的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在巴沃尔开始演示他的机器人后几个月，谷歌巴黎分公司的工程师戴维·科兹（David Coz）来到山景城，提出了一个较为简单的心灵传输（teleportation）概念。Google Cardboard的第一个原型产品只比最终版本稍微笨重一点——科兹将手机以及几个透镜和软件拼凑在一起，产生一种立体视觉效果。他开始到处展示这款产品，最终入了巴沃尔的法眼。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔回忆说：“我当时就觉得，这太不可思议了。我特别喜欢，我们需要将它开发出来。”皮查伊和谷歌CEO拉里·佩奇（Larry Page）也同意巴沃尔的看法。他们决定在即将召开的谷歌I/O开发者大会上揭开它的神秘面纱。这当然是一个好消息。坏消息是，当时距离I/O开发者大会的召开只剩下两个多月的时间了。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在接下来的两个月里，为了将Cardboard打造成为一款可以发布的产品，十余名谷歌员工暂时放下了他们的本职工作和家人，放弃了正常的生活节奏。在那一年的I/O开发者大会上，皮查伊以一种近似冷漠的口吻宣布了Cardboard的存在，但是在参加者走出莫斯克尼会议中心，开始将他们收到的各个组件拼凑在一起以后，外界对Cardboard的关注度飙升。同一天，一些公司开始请求谷歌帮助开发并出售他们自己的Cardboard作品。谷歌还在那年免费送给参加I/O大会的每位开发者一部智能手表，但唯一一款具有长期影响力的硬件产品却是Cardboard。虚拟现实成为那届I/O开发者大会的焦点。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span><br/></p>','2016-04-16 00:48:37','1','{\"thumb\":\"20160416\\/57111b61850b2.jpg\"}') [ RunTime:0.0010s ]
+SQL: INSERT INTO `cmf_term_relationships` (`term_id`,`object_id`) VALUES ('1','5') [ RunTime:0.0010s ]
+
+[ 2016-04-16T00:48:39+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:48:43+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:48:43+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:49:10+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit&term=&id=5
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:49:19+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0040s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 5 AND `term_id` NOT IN ('1') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 5 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 5 AND `term_id` = '1' [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='你们在谈VR高科技，谷歌却从披萨盒眼镜搞起，是谷歌疯了？',`post_keywords`='VR',`post_source`='网易',`post_excerpt`='VR',`post_modified`='2016-04-16 00:46:56',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b3149e74.jpg\" title=\"193324597120.jpg\" alt=\"193324597120.jpg\"/></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; 在谷歌正式招揽“VR技术人员”之前，克雷·巴沃尔（Clay Bavor）早就成为了谷歌内部赫赫有名的“VR小达人”。而如今，他终于得以带领团队一门心思地折腾他热爱的VR技术了。这位一脸稚气的帅小伙是谷歌虚拟现实技术部门副总裁——这可是一个有着“数百名”员工的团队。他们占据了谷歌园区的一栋建筑。这距离桑达尔·皮查伊（Sundar Pichai）无意中在台上提到了谷歌的第一款VR产品，过去不到两年。</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;<span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">Cardboard带来的惊喜</span></span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\"> &nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">这款产品即是“Cardboard”，它是一种廉价的简易头戴式装置，其图像质量根本无法与Oculus Rift或HTC Vive相媲美，而关注度与竞争对手相比也相形见绌。但巴沃尔并未因此而退缩。他以一种并不常见的方式来推广这款产品：谷歌赠送和售出了数千个Cardboard，而品牌厂商更是将Cardboard免费送人，鼓励他们试用自己开发的虚拟现实应用；从《纽约时报》到科切拉音乐节（Coachella）主办方，每个公司都将Cardboard送给了他们的客户。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔说：“它让我们参与了解虚拟现实技术，让更多的人知道了虚拟现实技术开发之初的故事——如果没有它，可能根本没有那么多人关注。”到2016年1月份，Cardboard的出货量达到500万部，那个时候，Vive、Rift或Playstation VR还没有上市发售。相比之下，谷歌的虚拟现实技术是面向每个人的，而且已经上市。</p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b4caabce.png\" title=\"0628387963.png\" alt=\"0628387963.png\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但是不要搞错，谷歌对虚拟现实技术的兴趣已经远远超出Cardboard的范畴：他们投资了极具神秘色彩的增强现实平台Magic Leap，并且收购了Tilt Brush——这是一款让人可以自由发挥的绘画应用，用虚拟现实的无限可能性来激发大脑潜能。就在其他虚拟现实公司试图先不断完善产品、再在未来的某一天去做到无处不在的时候，谷歌已经将这一模式付诸于实践：让尽可能多的人尽快地使用虚拟现实技术，然后再将它变成伟大的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔团队内部已经提出了实现这一目标的宏伟蓝图，其计划涉及谷歌当前所从事的几乎一切业务，同时还与其他许多事情存在关联；这些计划还涉及你的智能手机，以及远远超出这一范畴的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在巴沃尔开始演示他的机器人后几个月，谷歌巴黎分公司的工程师戴维·科兹（David Coz）来到山景城，提出了一个较为简单的心灵传输（teleportation）概念。Google Cardboard的第一个原型产品只比最终版本稍微笨重一点——科兹将手机以及几个透镜和软件拼凑在一起，产生一种立体视觉效果。他开始到处展示这款产品，最终入了巴沃尔的法眼。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔回忆说：“我当时就觉得，这太不可思议了。我特别喜欢，我们需要将它开发出来。”皮查伊和谷歌CEO拉里·佩奇（Larry Page）也同意巴沃尔的看法。他们决定在即将召开的谷歌I/O开发者大会上揭开它的神秘面纱。这当然是一个好消息。坏消息是，当时距离I/O开发者大会的召开只剩下两个多月的时间了。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在接下来的两个月里，为了将Cardboard打造成为一款可以发布的产品，十余名谷歌员工暂时放下了他们的本职工作和家人，放弃了正常的生活节奏。在那一年的I/O开发者大会上，皮查伊以一种近似冷漠的口吻宣布了Cardboard的存在，但是在参加者走出莫斯克尼会议中心，开始将他们收到的各个组件拼凑在一起以后，外界对Cardboard的关注度飙升。同一天，一些公司开始请求谷歌帮助开发并出售他们自己的Cardboard作品。谷歌还在那年免费送给参加I/O大会的每位开发者一部智能手表，但唯一一款具有长期影响力的硬件产品却是Cardboard。虚拟现实成为那届I/O开发者大会的焦点。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span><br/></p>',`smeta`='{\"thumb\":\"20160416\\/57111b8c1571e.jpg\"}' WHERE `id` = '5' [ RunTime:0.0010s ]
+
+[ 2016-04-16T00:49:21+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:49:21+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:49:50+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0060s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 5 AND `term_id` NOT IN ('1') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 5 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 5 AND `term_id` = '1' [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='你们在谈VR高科技，谷歌却从披萨盒眼镜搞起，是谷歌疯了？',`post_keywords`='VR',`post_source`='网易',`post_excerpt`='VR',`post_modified`='2016-04-16 00:46:56',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b3149e74.jpg\" title=\"193324597120.jpg\" alt=\"193324597120.jpg\"/></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; 在谷歌正式招揽“VR技术人员”之前，克雷·巴沃尔（Clay Bavor）早就成为了谷歌内部赫赫有名的“VR小达人”。而如今，他终于得以带领团队一门心思地折腾他热爱的VR技术了。这位一脸稚气的帅小伙是谷歌虚拟现实技术部门副总裁——这可是一个有着“数百名”员工的团队。他们占据了谷歌园区的一栋建筑。这距离桑达尔·皮查伊（Sundar Pichai）无意中在台上提到了谷歌的第一款VR产品，过去不到两年。</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;<span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">Cardboard带来的惊喜</span></span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\"> &nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">这款产品即是“Cardboard”，它是一种廉价的简易头戴式装置，其图像质量根本无法与Oculus Rift或HTC Vive相媲美，而关注度与竞争对手相比也相形见绌。但巴沃尔并未因此而退缩。他以一种并不常见的方式来推广这款产品：谷歌赠送和售出了数千个Cardboard，而品牌厂商更是将Cardboard免费送人，鼓励他们试用自己开发的虚拟现实应用；从《纽约时报》到科切拉音乐节（Coachella）主办方，每个公司都将Cardboard送给了他们的客户。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔说：“它让我们参与了解虚拟现实技术，让更多的人知道了虚拟现实技术开发之初的故事——如果没有它，可能根本没有那么多人关注。”到2016年1月份，Cardboard的出货量达到500万部，那个时候，Vive、Rift或Playstation VR还没有上市发售。相比之下，谷歌的虚拟现实技术是面向每个人的，而且已经上市。</p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b4caabce.png\" title=\"0628387963.png\" alt=\"0628387963.png\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但是不要搞错，谷歌对虚拟现实技术的兴趣已经远远超出Cardboard的范畴：他们投资了极具神秘色彩的增强现实平台Magic Leap，并且收购了Tilt Brush——这是一款让人可以自由发挥的绘画应用，用虚拟现实的无限可能性来激发大脑潜能。就在其他虚拟现实公司试图先不断完善产品、再在未来的某一天去做到无处不在的时候，谷歌已经将这一模式付诸于实践：让尽可能多的人尽快地使用虚拟现实技术，然后再将它变成伟大的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔团队内部已经提出了实现这一目标的宏伟蓝图，其计划涉及谷歌当前所从事的几乎一切业务，同时还与其他许多事情存在关联；这些计划还涉及你的智能手机，以及远远超出这一范畴的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在巴沃尔开始演示他的机器人后几个月，谷歌巴黎分公司的工程师戴维·科兹（David Coz）来到山景城，提出了一个较为简单的心灵传输（teleportation）概念。Google Cardboard的第一个原型产品只比最终版本稍微笨重一点——科兹将手机以及几个透镜和软件拼凑在一起，产生一种立体视觉效果。他开始到处展示这款产品，最终入了巴沃尔的法眼。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔回忆说：“我当时就觉得，这太不可思议了。我特别喜欢，我们需要将它开发出来。”皮查伊和谷歌CEO拉里·佩奇（Larry Page）也同意巴沃尔的看法。他们决定在即将召开的谷歌I/O开发者大会上揭开它的神秘面纱。这当然是一个好消息。坏消息是，当时距离I/O开发者大会的召开只剩下两个多月的时间了。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在接下来的两个月里，为了将Cardboard打造成为一款可以发布的产品，十余名谷歌员工暂时放下了他们的本职工作和家人，放弃了正常的生活节奏。在那一年的I/O开发者大会上，皮查伊以一种近似冷漠的口吻宣布了Cardboard的存在，但是在参加者走出莫斯克尼会议中心，开始将他们收到的各个组件拼凑在一起以后，外界对Cardboard的关注度飙升。同一天，一些公司开始请求谷歌帮助开发并出售他们自己的Cardboard作品。谷歌还在那年免费送给参加I/O大会的每位开发者一部智能手表，但唯一一款具有长期影响力的硬件产品却是Cardboard。虚拟现实成为那届I/O开发者大会的焦点。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span><br/></p>',`smeta`='{\"thumb\":\"20160416\\/57111baa1c971.jpg\"}' WHERE `id` = '5' [ RunTime:0.0010s ]
+
+[ 2016-04-16T00:49:52+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:49:52+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:50:22+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0060s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 5 AND `term_id` NOT IN ('1') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 5 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 5 AND `term_id` = '1' [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='你们在谈VR高科技，谷歌却从披萨盒眼镜搞起，是谷歌疯了？',`post_keywords`='VR',`post_source`='网易',`post_excerpt`='VR',`post_modified`='2016-04-16 00:46:56',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b3149e74.jpg\" title=\"193324597120.jpg\" alt=\"193324597120.jpg\"/></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; 在谷歌正式招揽“VR技术人员”之前，克雷·巴沃尔（Clay Bavor）早就成为了谷歌内部赫赫有名的“VR小达人”。而如今，他终于得以带领团队一门心思地折腾他热爱的VR技术了。这位一脸稚气的帅小伙是谷歌虚拟现实技术部门副总裁——这可是一个有着“数百名”员工的团队。他们占据了谷歌园区的一栋建筑。这距离桑达尔·皮查伊（Sundar Pichai）无意中在台上提到了谷歌的第一款VR产品，过去不到两年。</span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">&nbsp; &nbsp;<span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">Cardboard带来的惊喜</span></span></p><p><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\"> &nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">这款产品即是“Cardboard”，它是一种廉价的简易头戴式装置，其图像质量根本无法与Oculus Rift或HTC Vive相媲美，而关注度与竞争对手相比也相形见绌。但巴沃尔并未因此而退缩。他以一种并不常见的方式来推广这款产品：谷歌赠送和售出了数千个Cardboard，而品牌厂商更是将Cardboard免费送人，鼓励他们试用自己开发的虚拟现实应用；从《纽约时报》到科切拉音乐节（Coachella）主办方，每个公司都将Cardboard送给了他们的客户。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔说：“它让我们参与了解虚拟现实技术，让更多的人知道了虚拟现实技术开发之初的故事——如果没有它，可能根本没有那么多人关注。”到2016年1月份，Cardboard的出货量达到500万部，那个时候，Vive、Rift或Playstation VR还没有上市发售。相比之下，谷歌的虚拟现实技术是面向每个人的，而且已经上市。</p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111b4caabce.png\" title=\"0628387963.png\" alt=\"0628387963.png\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;&nbsp;</span></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但是不要搞错，谷歌对虚拟现实技术的兴趣已经远远超出Cardboard的范畴：他们投资了极具神秘色彩的增强现实平台Magic Leap，并且收购了Tilt Brush——这是一款让人可以自由发挥的绘画应用，用虚拟现实的无限可能性来激发大脑潜能。就在其他虚拟现实公司试图先不断完善产品、再在未来的某一天去做到无处不在的时候，谷歌已经将这一模式付诸于实践：让尽可能多的人尽快地使用虚拟现实技术，然后再将它变成伟大的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔团队内部已经提出了实现这一目标的宏伟蓝图，其计划涉及谷歌当前所从事的几乎一切业务，同时还与其他许多事情存在关联；这些计划还涉及你的智能手机，以及远远超出这一范畴的产品。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在巴沃尔开始演示他的机器人后几个月，谷歌巴黎分公司的工程师戴维·科兹（David Coz）来到山景城，提出了一个较为简单的心灵传输（teleportation）概念。Google Cardboard的第一个原型产品只比最终版本稍微笨重一点——科兹将手机以及几个透镜和软件拼凑在一起，产生一种立体视觉效果。他开始到处展示这款产品，最终入了巴沃尔的法眼。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">巴沃尔回忆说：“我当时就觉得，这太不可思议了。我特别喜欢，我们需要将它开发出来。”皮查伊和谷歌CEO拉里·佩奇（Larry Page）也同意巴沃尔的看法。他们决定在即将召开的谷歌I/O开发者大会上揭开它的神秘面纱。这当然是一个好消息。坏消息是，当时距离I/O开发者大会的召开只剩下两个多月的时间了。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在接下来的两个月里，为了将Cardboard打造成为一款可以发布的产品，十余名谷歌员工暂时放下了他们的本职工作和家人，放弃了正常的生活节奏。在那一年的I/O开发者大会上，皮查伊以一种近似冷漠的口吻宣布了Cardboard的存在，但是在参加者走出莫斯克尼会议中心，开始将他们收到的各个组件拼凑在一起以后，外界对Cardboard的关注度飙升。同一天，一些公司开始请求谷歌帮助开发并出售他们自己的Cardboard作品。谷歌还在那年免费送给参加I/O大会的每位开发者一部智能手表，但唯一一款具有长期影响力的硬件产品却是Cardboard。虚拟现实成为那届I/O开发者大会的焦点。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"background-color: rgb(255, 255, 255);\"><br/></span></span><br/></p>',`smeta`='{\"thumb\":\"20160416\\/57111bc98d7f5.jpeg\"}' WHERE `id` = '5' [ RunTime:0.0010s ]
+
+[ 2016-04-16T00:50:23+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:50:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:50:47+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:50:50+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:54:30+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0040s ]
+SQL: INSERT INTO `cmf_posts` (`post_title`,`post_keywords`,`post_source`,`post_excerpt`,`post_modified`,`post_status`,`istop`,`recommended`,`post_content`,`post_date`,`post_author`,`smeta`) VALUES ('在搜索引擎中购买竞品关键词，真的有那么“无耻”吗？','搜索','虎嗅','购买关键字','2016-04-16 00:50:50','1','0','0','<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c2f3b62d.jpg\" title=\"103034990133.jpg\" alt=\"103034990133.jpg\"/></p><p>&nbsp;&nbsp;</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">此前锤子手机被曝出在百度推广中购买了“iPhone”这一关键词，而此前罗永浩对在搜索引擎中购买品牌关键词一事极为反感，其曾经对新东方购买“罗永浩”关键词一事儿大肆抨击新东方，而此次则是自己成为了曾经被抨击的对象。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但如果回到商业竞争的本质来看，是否购买对手关键词真的有错？以及竞价排名真的有问题？</p><p><br/></p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">一、谷歌、必应、360、搜狗等搜索引擎面对竞品关键词是怎么做的</span></p><p></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">我们先来看下，主流的搜索引擎面对竞品购买关键词时，都是怎么做的。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">当国外用户在谷歌搜索iPad Pro时，排在第一位的是微软Surface的广告。</p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\"><br/></span></p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c4aaa645.jpg\" title=\"2305420112.jpg\" alt=\"2305420112.jpg\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">而其原因在于微软与三星都分别在谷歌购买了苹果的关键词广告，事实上企业可以购买对手品牌词广告，这在谷歌的Adwords竞价系统一直都是允许的，而且一些与query联系紧密程度较低的关键词也能通过高价购买。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">再来看微软的BING，搜索ipad pro时第一个出现的是乐视。</p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c76ce0e0.jpg\" title=\"2306390097.jpg\" alt=\"2306390097.jpg\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">而在360的SO搜索中，搜索“小米”，第一个出现的是乐视。</span></span><br/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c8602111.jpg\" title=\"2307077827.jpg\" alt=\"2307077827.jpg\"/></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">在搜狗搜索“小米手机”时，第一个出现的是京东的手机频道，而不是小米官网。</span></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c92db607.jpg\" title=\"2308390972.jpg\" alt=\"2308390972.jpg\"/></span></span></span></p><p></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">为了使自己的广告获得更多展现机会，很多企业会选择竞品词<span class=\"text-remarks\" label=\"备注\" style=\"box-sizing: border-box; color: rgb(153, 153, 153);\">（如同行业知名企业的的商号）</span>作为搜索推广结果的触发关键词。为了增加曝光率，即使是大型企业，也可能选择同类型中小型企业，甚至是与自己经营品类毫无相干的中小企业的竞品词作为搜索推广关键词，其目的是扩大自己推广结果的覆盖面，吸引更多人的关注，这在企业推广中非常常见。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">而无论国外的谷歌、雅虎、微软的必应，还是国内的百度、360、搜狗等搜索引擎都是允许购买竞争对手关键词，其实这已是常态。</p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">二、购买竞品词的市场竞争机制</span></p><p></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">搜索引擎通过技术创造了一个平台，需要盈利。而品牌企业本身都不是弱势群体，其有着选择的权利，可以选择踏入搜索推广领域也可以选择放弃，但是一旦踏入就必须按照游戏规则行事。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">之前看到一个著名的营销案例，就是国外的公路旁分别竖起了两块竞品的户外广告指示牌，一块是麦当劳的，一块是汉堡王的。竞争对手之间针锋相对打广告在现实生活中已经如此司空见惯，这也是市场竞争的一部分。所以需要相信的一点是，<span style=\"box-sizing: border-box; font-weight: 700;\">购买关键词是一种具有正当性的市场竞争行为</span>，允许购买竞品词则是全球主流搜索引擎的通用规则，这种规则被众多搜索厂商运用。搜索引擎精准匹配用户的query意图和推送广告，达成满足用户、商家盈利双方可以称为双赢的局面。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">无论是谷歌、百度、雅虎、微软的BING这些顶级搜索引擎，在各自的竞价排名系统中都允许竞争对手购买关键词，必然不会是一个简单的决定，这背后自然有着更为深刻的逻辑。</span>CNET Networks中国区总裁、全球副总裁王路也在接受采访时表示：<span style=\"box-sizing: border-box; font-weight: 700;\">“作为互联网经济中最为成熟的商业模式之一，商业推广在搜索引擎的发展过程中，实际上发挥了不可替代的作用。”</span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><font color=\"#a41d1d\"><span style=\"font-size: 20px;\"><b><br/></b></span></font></span></span></span></p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">三、用户搜索品牌背后的逻辑和需求</span></p><p></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">对于很多用户来说其搜索某品牌，并非真正需要某个品牌，而是有某种需求，例如搜索“小米手机”的用户不一定真的想要购买小米手机，而是可能想要了解小米手机的配置参数、功能、价格等多方因素然后进行参考。而如果此时将同等价位的华为手机推给用户，其实对用户来说也是非常需要的，这样一来，用户可以拥有更多对比和选择。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">因此竞价排名的关键词购买机制，其实是在更好的满足用户需求。</span>阿里知名产品经理苏杰曾说过“用户说出来的需求未必是真实需求”，而同理很多用户在使用搜索引擎搜索某品牌时，其背后的真实需求其实很难判定，而这时候最聪明的依然还是企业主，通过开放关键词让企业主进行自然的竞争，市场这个看不见的手可以将其进行更为合理的优化。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">因此我们假定用户搜索某个品牌，就一定是需要某个品牌，实际上是一个误区</span>。汽车时代诞生之前，用户说要跑的更快的马，而福特给了他们真正想要的汽车，而搜索引擎也需要借助商业化的力量，寻找用户说不出来但是想要的那辆“汽车”。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><font color=\"#a41d1d\"><span style=\"font-size: 20px;\"><b><br/></b></span></font></span></span></span></p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">四、用户忠诚度问题</span></p><p></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">目前对竞价关键词广告购买的认识中还有一个误区在于我们会认为，用户本来想找A品牌，但是看到B品牌的广告后，最后会就一定会选择B品牌。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">而<span style=\"box-sizing: border-box; font-weight: 700;\">真实的现实世界并非如此，真正的品牌不会如此脆弱，如果用户真的选择了B品牌，那说明A品牌对用户不具备真正的吸引力，而B品牌才是用户需要的产品</span>；而相反如果用户对于A品牌有着极大的忠诚，哪怕用户被带到了B品牌页面，其也会选择跳出继续选择A品牌，这就好像iPhone的死忠用户不会受到任何安卓手机广告的影响，所有安卓手机的广告对于他们的效果基本为0。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">如果讨论的认知误区在<span style=\"box-sizing: border-box; font-weight: 700;\">仅仅通过对手品牌词的购买，就可以强大到改变用户对于品牌的忠诚度，这无疑是在杞人忧天了。</span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><font color=\"#a41d1d\"><span style=\"font-size: 20px;\"><b><br/></b></span></font></span></span></span></p><p label=\"大标题\" class=\"text-big-title\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-weight: 700; color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">总结</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">媒体热爱的永远是吸引眼球，在对品牌竞争的分析中将弊端放大博得用户眼球，却只有很少人能用更多的维度去看到商业和技术千丝万缕的关系，将更多的真相带到用户面前。把购买竞品词的利弊一刀切的话，是武断和不合理的。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><font color=\"#a41d1d\"><span style=\"font-size: 20px;\"><b><br/></b></span></font></span></span></span><br/></p>','2016-04-16 00:54:29','1','{\"thumb\":\"20160416\\/57111c2138753.jpg\"}') [ RunTime:0.0010s ]
+SQL: INSERT INTO `cmf_term_relationships` (`term_id`,`object_id`) VALUES ('1','6') [ RunTime:0.0000s ]
+
+[ 2016-04-16T00:54:33+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:54:33+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:55:15+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:55:30+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:55:33+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit&term=&id=6
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:55:42+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=edit_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0040s ]
+SQL: DELETE FROM `cmf_term_relationships` WHERE `object_id` = 6 AND `term_id` NOT IN ('1') [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `cmf_term_relationships` WHERE `object_id` = 6 AND `term_id` = '1' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_term_relationships` SET `status`='1' WHERE `object_id` = 6 AND `term_id` = '1' [ RunTime:0.0000s ]
+SQL: UPDATE `cmf_posts` SET `post_title`='在搜索引擎中购买竞品关键词，真的有那么“无耻”吗？',`post_keywords`='搜索',`post_source`='虎嗅',`post_excerpt`='购买关键字',`post_modified`='2016-04-16 00:50:50',`post_status`='1',`istop`='0',`recommended`='0',`post_content`='<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c2f3b62d.jpg\" title=\"103034990133.jpg\" alt=\"103034990133.jpg\"/></p><p>&nbsp;&nbsp;</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">此前锤子手机被曝出在百度推广中购买了“iPhone”这一关键词，而此前罗永浩对在搜索引擎中购买品牌关键词一事极为反感，其曾经对新东方购买“罗永浩”关键词一事儿大肆抨击新东方，而此次则是自己成为了曾经被抨击的对象。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但如果回到商业竞争的本质来看，是否购买对手关键词真的有错？以及竞价排名真的有问题？</p><p><br/></p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">一、谷歌、必应、360、搜狗等搜索引擎面对竞品关键词是怎么做的</span></p><p><br/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">我们先来看下，主流的搜索引擎面对竞品购买关键词时，都是怎么做的。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">当国外用户在谷歌搜索iPad Pro时，排在第一位的是微软Surface的广告。</p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\"><br/></span></p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c4aaa645.jpg\" title=\"2305420112.jpg\" alt=\"2305420112.jpg\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">而其原因在于微软与三星都分别在谷歌购买了苹果的关键词广告，事实上企业可以购买对手品牌词广告，这在谷歌的Adwords竞价系统一直都是允许的，而且一些与query联系紧密程度较低的关键词也能通过高价购买。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">再来看微软的BING，搜索ipad pro时第一个出现的是乐视。</p><p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c76ce0e0.jpg\" title=\"2306390097.jpg\" alt=\"2306390097.jpg\"/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">而在360的SO搜索中，搜索“小米”，第一个出现的是乐视。</span></span><br/></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c8602111.jpg\" title=\"2307077827.jpg\" alt=\"2307077827.jpg\"/></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\">在搜狗搜索“小米手机”时，第一个出现的是京东的手机频道，而不是小米官网。</span></span></span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111c92db607.jpg\" title=\"2308390972.jpg\" alt=\"2308390972.jpg\"/></span></span></span></p><p><br/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">为了使自己的广告获得更多展现机会，很多企业会选择竞品词<span class=\"text-remarks\" label=\"备注\" style=\"box-sizing: border-box; color: rgb(153, 153, 153);\">（如同行业知名企业的的商号）</span>作为搜索推广结果的触发关键词。为了增加曝光率，即使是大型企业，也可能选择同类型中小型企业，甚至是与自己经营品类毫无相干的中小企业的竞品词作为搜索推广关键词，其目的是扩大自己推广结果的覆盖面，吸引更多人的关注，这在企业推广中非常常见。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">而无论国外的谷歌、雅虎、微软的必应，还是国内的百度、360、搜狗等搜索引擎都是允许购买竞争对手关键词，其实这已是常态。</p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">二、购买竞品词的市场竞争机制</span></p><p><br/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">搜索引擎通过技术创造了一个平台，需要盈利。而品牌企业本身都不是弱势群体，其有着选择的权利，可以选择踏入搜索推广领域也可以选择放弃，但是一旦踏入就必须按照游戏规则行事。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">之前看到一个著名的营销案例，就是国外的公路旁分别竖起了两块竞品的户外广告指示牌，一块是麦当劳的，一块是汉堡王的。竞争对手之间针锋相对打广告在现实生活中已经如此司空见惯，这也是市场竞争的一部分。所以需要相信的一点是，<span style=\"box-sizing: border-box; font-weight: 700;\">购买关键词是一种具有正当性的市场竞争行为</span>，允许购买竞品词则是全球主流搜索引擎的通用规则，这种规则被众多搜索厂商运用。搜索引擎精准匹配用户的query意图和推送广告，达成满足用户、商家盈利双方可以称为双赢的局面。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">无论是谷歌、百度、雅虎、微软的BING这些顶级搜索引擎，在各自的竞价排名系统中都允许竞争对手购买关键词，必然不会是一个简单的决定，这背后自然有着更为深刻的逻辑。</span>CNET Networks中国区总裁、全球副总裁王路也在接受采访时表示：<span style=\"box-sizing: border-box; font-weight: 700;\">“作为互联网经济中最为成熟的商业模式之一，商业推广在搜索引擎的发展过程中，实际上发挥了不可替代的作用。”</span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color:#a41d1d\"><span style=\"font-size: 20px;\"><strong><br/></strong></span></span></span></span></span></p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">三、用户搜索品牌背后的逻辑和需求</span></p><p><br/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">对于很多用户来说其搜索某品牌，并非真正需要某个品牌，而是有某种需求，例如搜索“小米手机”的用户不一定真的想要购买小米手机，而是可能想要了解小米手机的配置参数、功能、价格等多方因素然后进行参考。而如果此时将同等价位的华为手机推给用户，其实对用户来说也是非常需要的，这样一来，用户可以拥有更多对比和选择。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">因此竞价排名的关键词购买机制，其实是在更好的满足用户需求。</span>阿里知名产品经理苏杰曾说过“用户说出来的需求未必是真实需求”，而同理很多用户在使用搜索引擎搜索某品牌时，其背后的真实需求其实很难判定，而这时候最聪明的依然还是企业主，通过开放关键词让企业主进行自然的竞争，市场这个看不见的手可以将其进行更为合理的优化。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">因此我们假定用户搜索某个品牌，就一定是需要某个品牌，实际上是一个误区</span>。汽车时代诞生之前，用户说要跑的更快的马，而福特给了他们真正想要的汽车，而搜索引擎也需要借助商业化的力量，寻找用户说不出来但是想要的那辆“汽车”。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color:#a41d1d\"><span style=\"font-size: 20px;\"><strong><br/></strong></span></span></span></span></span></p><p><span style=\"color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; font-size: 20px; font-weight: bold; line-height: 30px; background-color: rgb(255, 255, 255);\">四、用户忠诚度问题</span></p><p><br/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">目前对竞价关键词广告购买的认识中还有一个误区在于我们会认为，用户本来想找A品牌，但是看到B品牌的广告后，最后会就一定会选择B品牌。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">而<span style=\"box-sizing: border-box; font-weight: 700;\">真实的现实世界并非如此，真正的品牌不会如此脆弱，如果用户真的选择了B品牌，那说明A品牌对用户不具备真正的吸引力，而B品牌才是用户需要的产品</span>；而相反如果用户对于A品牌有着极大的忠诚，哪怕用户被带到了B品牌页面，其也会选择跳出继续选择A品牌，这就好像iPhone的死忠用户不会受到任何安卓手机广告的影响，所有安卓手机的广告对于他们的效果基本为0。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">如果讨论的认知误区在<span style=\"box-sizing: border-box; font-weight: 700;\">仅仅通过对手品牌词的购买，就可以强大到改变用户对于品牌的忠诚度，这无疑是在杞人忧天了。</span></p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color:#a41d1d\"><span style=\"font-size: 20px;\"><strong><br/></strong></span></span></span></span></span></p><p label=\"大标题\" class=\"text-big-title\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-weight: 700; color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">总结</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">媒体热爱的永远是吸引眼球，在对品牌竞争的分析中将弊端放大博得用户眼球，却只有很少人能用更多的维度去看到商业和技术千丝万缕的关系，将更多的真相带到用户面前。把购买竞品词的利弊一刀切的话，是武断和不合理的。</p><p><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; background-color: rgb(255, 255, 255);\"><span style=\"color:#a41d1d\"><span style=\"font-size: 20px;\"><strong><br/></strong></span></span></span></span></span><br/></p>',`smeta`='{\"thumb\":\"20160416\\/57111d0a9b9e6.jpg\"}' WHERE `id` = '6' [ RunTime:0.0020s ]
+
+[ 2016-04-16T00:55:44+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:55:44+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:55:58+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:56:01+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:57:10+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add_post
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+SQL: SHOW COLUMNS FROM `cmf_users` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `cmf_users` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+SQL: SHOW COLUMNS FROM `cmf_posts` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `cmf_terms` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `cmf_term_relationships` [ RunTime:0.0040s ]
+SQL: INSERT INTO `cmf_posts` (`post_title`,`post_keywords`,`post_source`,`post_excerpt`,`post_modified`,`post_status`,`istop`,`recommended`,`post_content`,`post_date`,`post_author`,`smeta`) VALUES ('互联网医疗“暴力吸粉”，会将产品推向绝路吗？','互联网治疗','虎嗅','互联网治疗','2016-04-16 00:56:01','1','0','0','<p><img src=\"http://127.0.0.1/data/upload/ueditor/20160416/57111d45a0320.jpg\" title=\"174306481366.jpg\" alt=\"174306481366.jpg\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">用户是产品的上帝，这是公认的商业法则。怎样获得用户？很多情况下，这被看做是一个营销的话题。好产品本来是不缺用户的，而现实中，即便是好的产品有时也并不会立即为用户接受，这便需要营销的手段介入了。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">营销是一个推广产品的过程，为了使用户逐渐接受产品，营销往往不得不设计诸多的“伎俩”，这些“伎俩”本身多违背了用户原始的意愿，因此难免有“暴力”的成分。这样的过程权且称之为“暴力吸粉”。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">新产品最先出现在人们生活中时，面对的是一个陌生的用户人群。用户很难了解产品具体的用途，于是培养用户使用习惯便成了每种新产品都必须经历的过程。这个过程有时会很短暂，但更多的时候并非一帆风顺，即便产品自身很出色，用户也需要较长时间进行培育。培育用户的过程就是营销的过程，这是获得用户最基本的手段。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">营销需要效率，更需要效果，如果营销的过程过于漫长且没有效果的话，就会使整个产品的运营陷入困境。这是大家不愿意看到的结果。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\">互联网医疗是一个全新的概念，每一种产品都是新产品，在这样的新产品出现之前，不管是医生还是患者都只是习惯于用传统的手段看病。</span>互联网医疗的理念与传统医疗的理念有很大的差别，要想让用户接受新产品，就必须通过营销的手段使用户接受新理念。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p label=\"大标题\" class=\"text-big-title\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-weight: 700; color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">到目前为止，互联网产品的营销可谓五花八门</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><ul class=\" list-paddingleft-2\" style=\"box-sizing: border-box; padding: 0px 0px 0px 15px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><li><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;\">最常见的手段是用一些小恩小惠买通医生或者患者使用；</p></li><li><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;\">另一种手段则是开出空头资票，给用户画一个根本就无法变现的“大饼”，让用户为产品卖命；</p></li><li><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px;\">还有一种手段是利用一些现成的用户数据，强行将医生和患者注册为自己的用户。</p></li></ul><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">产品生产出来是让用户使用的，对于那些好的产品来说，用户会哭着喊着去抢着用，那是用户最真实的意愿。而如上所有的手段其实都是让用户被动接受的，虽然有些手段表面上并没有暴力因素存在，实际上均违背了用户对产品使用的真实意愿，因此均属于“暴力吸粉”的范畴。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p label=\"大标题\" class=\"text-big-title\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-weight: 700; color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">互联网医疗产品的“暴力吸粉”</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">互联网医疗产品发展到今年，几乎遍地开花，有数千种产品被生产出来。面对如此繁荣的景象，大家本不应该为用户数量担忧的，但残酷的现实却让从业者不得不心急如焚，因为<span style=\"box-sizing: border-box; font-weight: 700;\">即便经过了太长的吸粉过程，如今的用户数量依然少得可怜，</span>这使很多产品不得不考虑基本的生存问题。僧多粥少，大家争得你死我活，而为了生存，大家更要使出浑身解数，以更加“暴力”的手段去争夺用户。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">作为产品的使用者，用户往往是最功利的人群。他们不会轻易被各种“暴力”的营销手段打动。由此会产生非常不幸的结果：尽管各产品已经拥有了一定数量的用户，真正的使用者却非常罕见，他们中的大多数是事实的“僵尸用户”，而剩余的多数也在获得了短暂的好处后将产品狠心地抛弃。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p label=\"大标题\" class=\"text-big-title\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-weight: 700; color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">营销者的愚蠢与用户的功利造就了众产品今天的困境</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">大家花了钱，花了精力，花了时间，花了青春，说好是要粘住用户的，最后却把用户都赶跑了。而最可怕的结果是，随着竞争的白热化，也随着用户的觉悟，“暴力吸粉”的代价越来越高，而效果却越来越差，这几乎成了欲将产品推向绝路的节奏。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">每一款产品在设计之初，都是被赋予了太多美好愿望的。但为什么当大家绞尽脑汁去讨好用户，甚至用暴力的手段想获得用户的时候，却遇到了如此大的麻烦呢？这不能说用户不行，最重要的问题还在产品本身。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">在现实生活中，我们每一个人都是用户，我们每天都在使用和体验各种各样的产品。那么认真考虑一个问题，我们为什么乐意使用某一款产品呢？这个问题是很容易回答的。我曾将其总结为产品的基本属性，即有用、好用和能用。当一个产品具备了如此属性后，便拥有了普遍的科学性、先进性和实用性。面对这样一个好产品，有哪个领导和群众不愿意使用呢？大家还需要用诱饵用暴力逼着用户使用吗？</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">互联网医疗产品是用来看病的，产品设计的初衷是为了既方便医生也方便病人，使整个看病过程的体验得到提升。这种出发点很好，而且产品经理们也都挖空心思希望迎合医生和患者的喜好。但为什么如此讨好后用户依然不买账呢？这便需要从产品自身找问题了。像其他所有的产品一样，如果互联网医疗产品真的有用、好用和能用的话，哪位用户的芳心不能被打动呢？</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p label=\"大标题\" class=\"text-big-title\" style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-weight: 700; color: rgb(164, 29, 29); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">我是个医生，我渴望使用APP产品</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><span style=\"box-sizing: border-box; font-weight: 700;\"><br style=\"box-sizing: border-box;\"/></span></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">我用这些产品的目的是为了给病人看病，看病的工作其实包括很多内容，比如与病人进行联系、交流，如果可能的话，我会希望获得尽可能多的疾病信息。这对完成疾病的诊治非常有用。在对各种APP进行体验的过程中，我也同样扮演过患者，我会渴望寻找到我需要的医生，并获得最满意的诊疗帮助。</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">但是，<span style=\"box-sizing: border-box; font-weight: 700;\">到目前为止，作为医生的我并没有发现让我满意的APP产品，而假扮了患者的我也没有找到一款适合我去找医生的东西</span>。我相信国内太多的医生和患者会有相同的感受。这说明什么？说明我国的互联网医疗产品过于强大而用户智商普遍偏低吗？说明这些糟蹋了太多钱的东西真的很有用很好用且能用吗？</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">看病难是一个谈论了太久的话题。<span style=\"box-sizing: border-box; font-weight: 700;\">看病为什么难？从一个旁观者的角度来审视，这其实完全是一个效率的问题。</span>那么产品的本质是什么？不恰好是工具吗？如果一款高效实用的好产品能被设计出来的话，是不是可以使整个诊疗的过程得到提升呢？如果真那样，看病难的问题还会是问题吗？</p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\"><br style=\"box-sizing: border-box;\"/></p><p style=\"box-sizing: border-box; margin-top: 0px; margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Arial, 微软雅黑, &#39;Microsoft yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, &#39;Microsoft Yahei&#39;, &#39;Hiragino Sans GB&#39;, &#39;冬青黑体简体中文 w3&#39;, STXihei, 华文细黑, SimSun, 宋体, Heiti, 黑体, sans-serif; line-height: 30px; white-space: normal; background-color: rgb(255, 255, 255);\">四月的风光正好，最适合到山中面壁。这是个好时机，大家真需要静下心来思考一些问题了。</p><p><br/></p>','2016-04-16 00:57:10','1','{\"thumb\":\"20160416\\/57111d4dc6fe6.jpg\"}') [ RunTime:0.0020s ]
+SQL: INSERT INTO `cmf_term_relationships` (`term_id`,`object_id`) VALUES ('1','7') [ RunTime:0.0000s ]
+
+[ 2016-04-16T00:57:12+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=index
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-04-16T00:57:14+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T00:57:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:57:19+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:57:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:57:29+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T00:57:29+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:07:17+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:07:17+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:16:32+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:16:32+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:16:37+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:16:37+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:20:20+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:20:20+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:20:52+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:21:48+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:21:48+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:22:35+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:26:07+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:26:38+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:27:13+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:27:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:27:46+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:28:04+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:28:24+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:28:51+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:30:11+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:30:16+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:30:22+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:35:46+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:35:52+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:35:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:35:57+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:36:01+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:36:04+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:36:07+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:36:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:36:35+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:36:53+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:36:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:37:03+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:38:22+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:38:27+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:38:30+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:38:56+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:00+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:05+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:25+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:32+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:35+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:52+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:56+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:39:59+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:43:21+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:43:32+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:43:39+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:44:19+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:44:19+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:44:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:44:23+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:44:27+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:44:27+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:44:30+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:45:35+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:45:35+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:45:49+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:45:49+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:46:09+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:46:18+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:46:24+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:46:54+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:46:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:01+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:09+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:19+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:47:19+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:35+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:38+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:47+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:47+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:47:52+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:47:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:48:02+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:50:18+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:51:39+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:51:50+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:52:03+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:52:05+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:52:07+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:57:25+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:57:28+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:57:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:57:37+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:57:40+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:57:40+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:58:03+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:58:13+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T10:58:13+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:58:21+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T10:58:21+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:03:30+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:03:36+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:03:40+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:03:40+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:03:44+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:03:49+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:03:52+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:26+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:37+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:39+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:55+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:04:55+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:04:59+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:05:02+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:05:11+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:05:11+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:05:20+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:05:20+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:05:50+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:03+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:11+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:16+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:22+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:37+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:43+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:47+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:06:47+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:06:57+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:07:00+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:07+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:10+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:13+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:20+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:24+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:30+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:30+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:07:34+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:46+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:47+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:07:49+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:08:02+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:08:05+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:08:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:14+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:09:17+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:24+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:29+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:09:29+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:38+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:43+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:47+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:50+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:53+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:55+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:09:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:10:19+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:10:35+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:10:35+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:10:50+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:10:53+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:10:55+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:11:18+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:11:20+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:11:23+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:11:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:11:31+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T11:27:26+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T11:27:26+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T12:01:38+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:01:49+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:09+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:16+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:27+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:36+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:43+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:46+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:49+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:02:53+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:03:28+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:03:32+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:03:32+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T12:04:19+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:04:59+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:04:59+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T12:05:02+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:05:08+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:05:10+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T12:05:10+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:05:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:05:28+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:05:55+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:05:57+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:06:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:06:16+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:06:20+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:12:18+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:12:25+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:12:38+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:13:15+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:13:25+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:13:28+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:14:09+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-04-16T12:14:14+08:00 ] 127.0.0.1 /js/jquery.min.js
+ERR: 无法加载控制器:Js
+
+[ 2016-04-16T12:14:14+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{$name} {$seo_title} {$site_name}</title>
+	<meta name="keywords" content="{$seo_keywords}" />
+	<meta name="description" content="{$seo_description}">
+    <tc_include file="Public:head" />
+</head>
+<body>
+<tc_include file="Public:nav" />
+<div class="container tc-main">
+	
+	
+    <div class="pg-opt pin">
+        <div class="container">
+            <h2>{$name}</h2>
+        </div>
+   
+    <div class="row">
+		<div class="span9">
+			<div class="">
+				
+				<volist name="act1" id="voa">
+				
+				<div class="list-boxes">
+					<h1><a href="{:U('blog/index/job_output',array('id'=>$voa['position_id']))}">{$voa.position_title}</a></h1>
+					<h2><p>{$voa.job_offer}</p></h2>
+					<div>
+						<div class="pull-left">
+							<div class="list-actions">
+							
+							</a>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				</volist>
+				
+					<volist name="act2" id="vob">
+				
+				<div class="list-boxes">
+					<h1><a href="{:U('blog/index/job_output',array('id'=>$vob['position_id']))}">{$vob.position_title}</a></h1>
+					<h2><p>{$vob.job_offer}</p></h2>
+					<div>
+						<div class="pull-left">
+							<div class="list-actions">
+							
+								
+							</a>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				</volist>
+				
+					<volist name="act3" id="voc">
+				
+				<div class="list-boxes">
+					<h1><a href="{:U('blog/index/job_output',array('id'=>$voc['position_id']))}">{$voc.position_title}</a></h1>
+					<h2><p>{$voc.job_offer}</p></h2>
+					<div>
+						<div class="pull-left">
+							<div class="list-actions">
+							
+								
+							</a>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				</volist>
+				
+			</div>
+			<div class="pagination"><ul>{$lists['page']}</ul></div>
+		</div>
+		
+    </div>
+    
+    
+    <tc_include file="Public:footer" />
+</div>
+
+    
+<!-- JavaScript -->
+<tc_include file="Public:scripts" />
+</body>
+</html>

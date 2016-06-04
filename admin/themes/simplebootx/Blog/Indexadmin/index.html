@@ -1,0 +1,66 @@
+<admintpl file="header" />
+</head>
+<body>
+	<div class="wrap">
+		<ul class="nav nav-tabs">
+			<li class="active"><a>{:L('USER_INDEXADMIN_INDEX')}</a></li>
+		</ul>
+		<form method="post" class="js-ajax-form">
+			<table class="table table-hover table-bordered">
+				<thead>
+					<tr>
+						<th align="center">ID</th>
+						
+						<th>{:L('NICENAME')}</th>
+						<th>{:L('AVATAR')}</th>
+						<th>{:L('Position_nature')}</th>
+						<th>{:L('Word_place')}</th>
+						<th>{:L('Sex_require')}</th>
+						<th>{:L('Require_number')}</th>
+						<th>{:L('Job_offer')}</th>
+						<th>{:L('Work_time')}</th>
+						<th>{:L('Contact')}</th>
+						<th>{:L('Contact_way')}</th>
+						<th>{:L('STATUS')}</th>
+
+						<th align="center">{:L('USER_STATUS_UNVERIFIED')}</th>
+					</tr>
+				</thead>
+				<tbody>
+					<php>$user_statuses=array("0"=>L('USER_STATUS_BLOCKED'),"1"=>L('USER_STATUS_ACTIVATED'),"2"=>L('USER_STATUS_UNVERIFIED'));</php>
+					<foreach name="Job_offer_list" item="vo">
+					<tr>
+						<td align="center">{$vo.position_id}</td>
+						
+						
+						<td>{$vo.position_title}</td>
+						<td>{$vo.position_name}</td>
+						<td>{$vo.position_nature}</td>
+						<td>{$vo.work_place}</td>
+						<td>{$vo.sex_require}</td>
+						<td>{$vo.require_number}</td>
+						<td>{$vo.job_offer}</td>
+						<td>{$vo.work_time}</td>
+						<td>{$vo.contact}</td>
+						<td>{$vo.contact_way}</td>
+						<td>{$vo.status}</td>
+						
+						
+						
+						
+						
+						<td>{$user_statuses[$vo['user_status']]}</td>
+						<td align="center">
+							<a href="{:U('blog/index/checkre',array('id'=>$vo['position_id']))}" >{:L('BLOCK_USER')}</a>|
+							<a href="{:U('indexadmin/cancelban',array('id'=>$vo['id']))}" class="js-ajax-dialog-btn" data-msg="{:L('ACTIVATE_USER_CONFIRM_MESSAGE')}">{:L('ACTIVATE_USER')}</a>
+						</td>
+					</tr>
+					</foreach>
+				</tbody>
+			</table>
+			<div class="pagination">{$page}</div>
+		</form>
+	</div>
+	<script src="__PUBLIC__/js/common.js"></script>
+</body>
+</html>

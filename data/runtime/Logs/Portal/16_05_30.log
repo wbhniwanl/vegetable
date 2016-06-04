@@ -1,0 +1,33 @@
+[ 2016-05-30T10:42:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-05-30T10:43:31+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-05-30T11:04:15+08:00 ] 127.0.0.1 /ifr_status/
+ERR: 无法加载控制器:Ifr_status
+
+[ 2016-05-30T16:17:27+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-05-30T16:29:29+08:00 ] 127.0.0.1 /ifr_status/
+ERR: 无法加载控制器:Ifr_status
+
+[ 2016-05-30T16:59:29+08:00 ] 127.0.0.1 /ifr_status/
+ERR: 无法加载控制器:Ifr_status
+
+[ 2016-05-30T17:29:29+08:00 ] 127.0.0.1 /ifr_status/
+ERR: 无法加载控制器:Ifr_status
+
+[ 2016-05-30T17:39:59+08:00 ] 127.0.0.1 /themes/simplebootx/Public/css/style1
+ERR: 无法加载控制器:Themes
+
+[ 2016-05-30T17:40:28+08:00 ] 127.0.0.1 /index.php?g=Portal&m=AdminPost&a=index&menuid=7
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-05-30T17:40:30+08:00 ] 127.0.0.1 /index.php?g=&m=AdminPost&a=add&term=
+NOTIC: D方法实例化没找到模型类Portal\Model\PostsModel
+
+[ 2016-05-30T17:44:23+08:00 ] 127.0.0.1 /ifr_status/
+ERR: 无法加载控制器:Ifr_status
+

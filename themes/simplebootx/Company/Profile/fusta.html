@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head> 
+
+
+<title>变更辅导状态</title>
+
+<style type="text/css">
+table.altrowstable {
+  font-family: verdana,arial,sans-serif;
+  font-size:11px;
+  color:#333333;
+  border-width: 1px;
+  border-color: #a9c6c9;
+  border-collapse: collapse;
+}
+table.altrowstable th {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #a9c6c9;
+}
+table.altrowstable td {
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #a9c6c9;
+}
+.oddrowcolor{
+  background-color:#d4e3e5;
+}
+.evenrowcolor{
+  background-color:#c3dde0;
+}
+
+.container{
+background-color:white;
+
+}
+
+
+</style>
+    
+        <!-- Javascript goes in the document HEAD -->
+<script type="text/javascript">
+function altRows(id){
+  if(document.getElementsByTagName){  
+    
+    var table = document.getElementById(id);  
+    var rows = table.getElementsByTagName("tr"); 
+     
+    for(i = 0; i < rows.length; i++){          
+      if(i % 2 == 0){
+        rows[i].className = "evenrowcolor";
+      }else{
+        rows[i].className = "oddrowcolor";
+      }      
+    }
+  }
+}
+
+window.onload=function(){
+  altRows('alternatecolor');
+}
+</script>
+<meta name="keywords" content="{$site_seo_keywords}" />
+<meta name="description" content="{$site_seo_description}">
+<meta name="author" content="ThinkCMF">
+<tc_include file="Public:head" />
+</head>
+<body class="body-white" id="top"> 
+	<tc_include file="Public:nav" />
+
+		<div class="container" style="background:#eeeeee">
+      <div class="title1">
+      
+        <div class="title2" style="text-align: center;">
+          <tc_include file="Public:usernav"/>
+          <h1>变更辅导学生</h1>
+        </div>
+      </div>
+
+      <br />
+      <div >
+        <div >
+        
+
+          <table class="altrowstable" id="alternatecolor" align="center" style="margin:auto">
+            <tr>
+              
+  <th>用户名</th>
+  <th>性别</th>
+  <th>联系方式</th>
+  <th>查看</th>
+  <th>删除</th>
+            
+</tr>
+            <volist name="recruit_detail" id="voa">
+              <tr>
+              
+  <td>{$voa.user_id}</td>
+  <td>{$voa.sex_require}</td>
+  <td>{$voa.contact}</td>
+ 
+  <td><a href="{:U('blog/index/company_check',array('id'=>$voa['position_id']))}" style="color:blue"> 查看</a></td>
+  <td><a href="{:U('blog/index/delete_re',array('id'=>$voa['position_id']))}" style="color:blue"> 删除</a></td>
+                
+</tr>
+
+            </volist>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    </div>
+
+  <div class="container" style="position:fixed;bottom:0;left:7%"> 
+      <tc_include file="Public:footer"/>
+<tc_include file="Public:scripts" />
+</div>
+
+
+</body>
+</html>
